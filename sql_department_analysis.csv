@@ -1,0 +1,6 @@
+department,total_students,avg_marks,avg_attendance,avg_engagement,high_risk_students
+Management,104,77.91,76.77,65.55,8
+Electronics,104,77.78,77.58,64.21,11
+IT,99,77.73,78.19,64.66,13
+Computer Science,99,76.71,78.06,66.21,8
+AI & Data Science,94,76.1,78.97,66.5,6

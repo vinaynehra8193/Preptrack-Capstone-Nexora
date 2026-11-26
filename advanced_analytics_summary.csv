@@ -1,0 +1,15 @@
+analysis_type,group,students,avg_marks,avg_attendance,avg_engagement,high_risk_count
+Performance,Needs Improvement,4,46.53,58.37,60.73,3
+Performance,Average,98,63.54,74.71,62.4,18
+Performance,Good,290,77.2,77.42,64.97,21
+Performance,Excellent,108,91.05,82.76,69.49,4
+Attendance,Below 60%,27,71.4,,56.77,27
+Attendance,60–74%,169,75.32,,62.6,16
+Attendance,75–89%,233,78.15,,66.67,3
+Attendance,90%+,71,81.26,,71.25,0
+Assignments,Low,264,77.38,78.31,56.75,32
+Assignments,Moderate,126,77.53,77.76,70.92,7
+Assignments,High,110,76.69,77.04,79.86,7
+Study Hours,Low,37,67.09,79.32,64.27,4
+Study Hours,Moderate,323,75.68,78.32,65.53,27
+Study Hours,High,140,83.63,76.52,65.41,15

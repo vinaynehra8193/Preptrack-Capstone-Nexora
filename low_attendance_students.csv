@@ -1,0 +1,197 @@
+student_id,department,semester,attendance_percentage,average_marks,academic_risk
+STU1263,Electronics,1,39.1,84.1,High Risk
+STU1075,Computer Science,3,46.56,79.7,High Risk
+STU1472,Electronics,4,50.38,40.87,High Risk
+STU1383,Computer Science,4,52.51,61.72,High Risk
+STU1443,Management,3,53.19,76.94,High Risk
+STU1432,AI & Data Science,3,53.53,87.6,High Risk
+STU1237,IT,6,53.7,67.36,High Risk
+STU1080,IT,4,54.15,72.95,High Risk
+STU1038,Electronics,6,54.48,61.09,High Risk
+STU1286,Electronics,5,54.57,62.79,High Risk
+STU1111,Computer Science,4,54.97,72.12,High Risk
+STU1014,AI & Data Science,4,55.04,49.09,High Risk
+STU1222,Management,3,55.59,59.43,High Risk
+STU1050,Computer Science,3,56.84,80.58,High Risk
+STU1430,Electronics,2,56.9,86.1,High Risk
+STU1015,AI & Data Science,4,57.3,71.15,High Risk
+STU1397,AI & Data Science,1,57.44,65.58,High Risk
+STU1439,IT,3,57.56,82.8,High Risk
+STU1224,Management,5,58.65,82.14,High Risk
+STU1143,Computer Science,6,58.71,69.36,High Risk
+STU1483,IT,6,58.72,64.8,High Risk
+STU1401,Management,5,58.87,77.44,High Risk
+STU1131,Management,2,59.39,66.47,High Risk
+STU1413,IT,6,59.59,79.68,High Risk
+STU1255,Electronics,1,59.77,73.19,High Risk
+STU1190,Computer Science,4,59.82,70.66,High Risk
+STU1473,IT,3,59.82,82.16,High Risk
+STU1045,Electronics,4,60.26,52.67,Medium Risk
+STU1096,IT,4,60.44,61.0,Medium Risk
+STU1347,IT,3,60.62,78.7,Medium Risk
+STU1272,IT,2,60.77,83.89,High Risk
+STU1268,IT,2,60.84,79.67,Medium Risk
+STU1024,Computer Science,3,60.9,72.37,Medium Risk
+STU1486,Management,4,60.93,71.6,Medium Risk
+STU1101,AI & Data Science,4,61.02,77.69,Medium Risk
+STU1020,Electronics,3,61.05,92.72,Medium Risk
+STU1348,Management,1,61.11,82.3,High Risk
+STU1124,Electronics,3,61.18,72.75,Medium Risk
+STU1500,Management,3,61.41,71.31,Medium Risk
+STU1438,AI & Data Science,4,61.44,84.02,Medium Risk
+STU1205,Computer Science,4,61.47,66.61,High Risk
+STU1039,IT,2,62.06,69.88,High Risk
+STU1148,Electronics,4,62.15,77.19,High Risk
+STU1393,Management,4,62.16,79.85,Medium Risk
+STU1445,Management,2,62.35,89.7,Medium Risk
+STU1251,AI & Data Science,5,62.87,46.47,Medium Risk
+STU1266,Electronics,1,63.03,58.94,High Risk
+STU1194,Management,4,63.05,66.58,Medium Risk
+STU1284,Computer Science,6,63.15,84.8,Medium Risk
+STU1147,Electronics,6,63.16,54.72,Medium Risk
+STU1140,Management,2,63.23,58.21,Medium Risk
+STU1036,IT,2,63.35,63.96,Medium Risk
+STU1326,Computer Science,6,63.43,81.05,Medium Risk
+STU1245,Management,2,63.6,67.38,Medium Risk
+STU1460,Electronics,3,63.63,79.03,Medium Risk
+STU1064,Electronics,3,63.65,74.47,Medium Risk
+STU1159,Computer Science,1,63.7,68.38,Medium Risk
+STU1431,Electronics,2,63.8,60.65,Medium Risk
+STU1118,IT,4,63.98,71.41,Medium Risk
+STU1027,Electronics,4,64.19,78.64,Medium Risk
+STU1200,Computer Science,3,64.28,76.54,Medium Risk
+STU1412,Management,3,64.5,93.69,High Risk
+STU1063,IT,3,64.72,61.7,Medium Risk
+STU1488,Electronics,4,65.02,79.05,Medium Risk
+STU1228,AI & Data Science,2,65.07,81.7,Medium Risk
+STU1183,Management,1,65.15,65.09,Medium Risk
+STU1407,IT,4,65.19,49.7,High Risk
+STU1133,AI & Data Science,2,65.25,70.9,Medium Risk
+STU1450,Management,3,65.29,74.62,Medium Risk
+STU1034,AI & Data Science,2,65.31,66.48,Medium Risk
+STU1497,Computer Science,5,65.55,88.36,Medium Risk
+STU1458,Management,4,65.58,100.0,Medium Risk
+STU1264,AI & Data Science,2,65.71,58.25,High Risk
+STU1017,Computer Science,1,65.85,87.37,Medium Risk
+STU1325,Management,3,65.93,72.5,Medium Risk
+STU1356,AI & Data Science,6,65.97,59.31,Medium Risk
+STU1127,Electronics,4,66.11,64.87,Medium Risk
+STU1453,Management,6,66.17,59.51,Medium Risk
+STU1275,AI & Data Science,2,66.22,74.17,Medium Risk
+STU1161,Management,2,66.3,75.47,Medium Risk
+STU1427,Computer Science,3,66.42,54.41,Medium Risk
+STU1482,IT,5,66.53,64.54,High Risk
+STU1448,Electronics,6,66.72,70.76,Medium Risk
+STU1206,Electronics,1,66.75,75.68,High Risk
+STU1261,AI & Data Science,2,66.88,84.79,Medium Risk
+STU1135,AI & Data Science,6,66.97,64.66,Medium Risk
+STU1122,Management,5,67.09,67.86,Medium Risk
+STU1019,AI & Data Science,1,67.1,65.69,High Risk
+STU1391,Computer Science,2,67.22,84.29,Medium Risk
+STU1332,Electronics,6,67.23,72.99,Medium Risk
+STU1171,Management,5,67.33,81.24,Medium Risk
+STU1197,Computer Science,5,67.39,67.96,Medium Risk
+STU1499,AI & Data Science,4,67.49,71.55,Medium Risk
+STU1494,Computer Science,4,67.66,76.09,Medium Risk
+STU1182,IT,3,67.71,70.17,Medium Risk
+STU1189,Electronics,3,67.84,81.88,Medium Risk
+STU1381,Computer Science,2,67.92,98.53,Medium Risk
+STU1057,Computer Science,2,67.93,78.51,Medium Risk
+STU1301,IT,4,68.05,93.61,Medium Risk
+STU1360,AI & Data Science,3,68.07,80.49,Medium Risk
+STU1337,AI & Data Science,1,68.09,73.05,Medium Risk
+STU1341,Computer Science,5,68.13,73.26,Medium Risk
+STU1164,IT,4,68.15,62.56,Medium Risk
+STU1323,Electronics,4,68.18,86.09,Medium Risk
+STU1172,Computer Science,4,68.21,59.49,High Risk
+STU1085,AI & Data Science,3,68.3,79.62,Medium Risk
+STU1380,Management,6,68.3,78.9,Medium Risk
+STU1104,AI & Data Science,4,68.37,75.73,Medium Risk
+STU1241,Computer Science,1,68.49,61.62,Medium Risk
+STU1456,AI & Data Science,1,68.49,88.22,Medium Risk
+STU1137,Electronics,6,68.6,74.22,Medium Risk
+STU1370,Electronics,4,68.72,81.24,High Risk
+STU1217,AI & Data Science,4,68.73,76.27,Medium Risk
+STU1376,Electronics,3,68.79,95.88,Medium Risk
+STU1385,IT,3,68.89,79.91,Medium Risk
+STU1485,Computer Science,1,68.92,82.52,Medium Risk
+STU1170,Management,4,68.96,87.21,Medium Risk
+STU1416,IT,3,69.02,73.79,Medium Risk
+STU1231,AI & Data Science,6,69.24,72.69,Medium Risk
+STU1046,Management,2,69.36,75.42,Medium Risk
+STU1349,Management,5,69.38,75.52,Medium Risk
+STU1229,Computer Science,3,69.42,76.34,Medium Risk
+STU1156,Management,4,69.43,74.73,Medium Risk
+STU1258,Computer Science,3,69.51,84.21,Medium Risk
+STU1093,IT,1,69.58,82.53,Medium Risk
+STU1463,Management,6,69.6,79.5,Medium Risk
+STU1296,Electronics,5,69.69,74.71,Medium Risk
+STU1153,Computer Science,3,69.84,73.22,Medium Risk
+STU1334,IT,6,69.87,75.58,Medium Risk
+STU1053,Management,6,69.88,75.72,Medium Risk
+STU1239,Electronics,6,70.06,93.54,Low Risk
+STU1248,Electronics,1,70.16,72.55,Medium Risk
+STU1234,Computer Science,2,70.18,66.3,Low Risk
+STU1487,IT,6,70.24,86.52,Medium Risk
+STU1070,IT,3,70.26,69.17,Low Risk
+STU1290,Management,4,70.53,70.94,Medium Risk
+STU1031,Computer Science,2,70.78,79.3,Medium Risk
+STU1029,Electronics,1,70.79,73.87,Low Risk
+STU1278,Management,4,70.8,73.97,Low Risk
+STU1382,Computer Science,3,70.81,83.59,Medium Risk
+STU1402,Computer Science,3,70.81,71.03,Medium Risk
+STU1308,IT,6,70.9,76.1,Low Risk
+STU1293,AI & Data Science,2,70.93,75.27,Low Risk
+STU1390,Computer Science,1,71.08,79.88,Medium Risk
+STU1470,Management,6,71.09,76.42,Low Risk
+STU1128,AI & Data Science,1,71.2,82.87,Medium Risk
+STU1340,IT,2,71.24,72.43,Low Risk
+STU1016,Management,6,71.25,79.0,Low Risk
+STU1302,IT,6,71.28,73.58,Medium Risk
+STU1459,IT,1,71.36,89.69,Low Risk
+STU1025,Management,5,71.47,71.24,Low Risk
+STU1469,Management,2,71.63,70.73,Medium Risk
+STU1089,Management,4,71.64,72.91,Low Risk
+STU1455,AI & Data Science,6,71.64,71.07,Low Risk
+STU1384,IT,6,71.69,75.34,High Risk
+STU1084,IT,3,71.78,93.46,Low Risk
+STU1449,Electronics,2,71.83,86.57,Low Risk
+STU1344,AI & Data Science,4,71.92,80.79,Medium Risk
+STU1130,IT,4,71.96,89.29,Low Risk
+STU1086,Electronics,3,71.98,83.16,Low Risk
+STU1292,IT,5,72.08,81.59,Low Risk
+STU1219,Computer Science,2,72.18,76.93,Low Risk
+STU1256,IT,4,72.19,99.42,High Risk
+STU1061,Electronics,2,72.25,78.5,Low Risk
+STU1247,Electronics,5,72.3,84.27,Low Risk
+STU1225,IT,3,72.34,68.43,Low Risk
+STU1345,Management,3,72.35,79.62,Medium Risk
+STU1009,Computer Science,5,72.37,78.56,Low Risk
+STU1396,Management,3,72.37,76.62,Low Risk
+STU1012,AI & Data Science,3,72.41,73.88,Low Risk
+STU1011,Electronics,2,72.44,70.64,Low Risk
+STU1047,Electronics,2,72.47,72.2,Low Risk
+STU1405,Electronics,4,72.6,77.79,Low Risk
+STU1191,Electronics,2,72.64,78.12,Medium Risk
+STU1269,IT,1,72.72,71.01,Low Risk
+STU1102,Electronics,6,72.95,74.65,Medium Risk
+STU1366,Management,6,73.19,59.53,Low Risk
+STU1095,Management,1,73.29,64.43,Medium Risk
+STU1052,AI & Data Science,5,73.38,73.84,Medium Risk
+STU1280,IT,6,73.38,73.06,Low Risk
+STU1103,Computer Science,5,73.89,79.92,Low Risk
+STU1246,AI & Data Science,1,73.99,70.61,Medium Risk
+STU1094,AI & Data Science,5,74.07,85.06,Low Risk
+STU1138,Computer Science,5,74.14,76.91,Low Risk
+STU1338,AI & Data Science,6,74.14,69.96,Low Risk
+STU1215,IT,2,74.22,70.61,Medium Risk
+STU1318,Computer Science,3,74.28,74.69,Low Risk
+STU1058,Electronics,4,74.29,69.28,Medium Risk
+STU1044,IT,3,74.39,80.71,Low Risk
+STU1078,IT,4,74.41,88.82,Low Risk
+STU1030,Computer Science,4,74.5,59.23,Low Risk
+STU1358,Computer Science,3,74.54,77.51,Low Risk
+STU1471,Management,6,74.7,83.98,Medium Risk
+STU1433,IT,2,74.77,65.34,Low Risk
+STU1179,Management,3,74.82,87.37,Low Risk
+STU1265,AI & Data Science,4,74.97,81.24,Low Risk

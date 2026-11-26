@@ -1,0 +1,11 @@
+student_id,department,semester,attendance_percentage,average_marks,engagement_score,engagement_level,academic_risk
+STU1148,Electronics,4,62.15,77.19,34.629999999999995,Low,High Risk
+STU1401,Management,5,58.87,77.44,35.088,Low,High Risk
+STU1264,AI & Data Science,2,65.71,58.25,38.3915,Low,High Risk
+STU1256,IT,4,72.19,99.42,39.6835,Low,High Risk
+STU1177,IT,2,78.16,76.16,39.8965,Low,High Risk
+STU1439,IT,3,57.56,82.8,41.484,Low,High Risk
+STU1080,IT,4,54.15,72.95,41.735,Low,High Risk
+STU1185,Management,5,75.32,57.13,41.9255,Low,High Risk
+STU1039,IT,2,62.06,69.88,42.084,Low,High Risk
+STU1266,Electronics,1,63.03,58.94,42.099500000000006,Low,High Risk

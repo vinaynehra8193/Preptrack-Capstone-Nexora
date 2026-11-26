@@ -1,0 +1,501 @@
+student_id,department,semester,attendance_percentage,total_classes,classes_attended,assignment_total,assignments_completed,study_hours_weekly,average_marks,activity_score,assignment_completion_percentage,attendance_category,assignment_category,study_category,engagement_score,engagement_level,academic_risk
+STU1001,Electronics,6,83.96,89,75,6,0,16.63,93.0,90.19,0.0,High,Low,High,56.131499999999996,Moderate,Medium Risk
+STU1002,IT,6,76.34,90,69,11,1,21.55,85.33,81.64,9.090909090909092,High,Low,High,54.127818181818185,Moderate,Medium Risk
+STU1003,AI & Data Science,3,85.77,97,83,12,7,5.01,63.83,66.07,58.333333333333336,High,Moderate,Moderate,71.24216666666666,Moderate,Low Risk
+STU1004,Electronics,6,96.28,70,67,14,10,14.81,83.22,53.36,71.42857142857143,High,Moderate,Moderate,76.852,High,Low Risk
+STU1005,AI & Data Science,1,75.19,94,71,12,4,8.75,72.24,77.57,33.33333333333333,High,Low,Moderate,61.13516666666666,Moderate,Low Risk
+STU1006,Electronics,4,75.19,67,50,8,1,9.56,70.3,72.08,12.5,High,Low,Moderate,52.471000000000004,Moderate,Medium Risk
+STU1007,Management,6,96.95,62,60,5,4,9.04,85.39,81.11,80.0,High,Moderate,Moderate,87.0575,High,Low Risk
+STU1008,IT,3,87.21,73,64,15,9,7.68,82.83,76.43,60.0,High,Moderate,Moderate,74.9915,Moderate,Low Risk
+STU1009,Computer Science,5,72.37,119,86,11,10,12.24,78.56,83.89,90.9090909090909,Moderate,High,Moderate,81.73868181818182,High,Low Risk
+STU1010,Electronics,3,84.51,72,61,5,2,7.85,84.01,55.37,40.0,High,Low,Moderate,61.6465,Moderate,Low Risk
+STU1011,Electronics,2,72.44,104,75,15,11,13.35,70.64,88.71,73.33333333333333,Moderate,Moderate,Moderate,76.82016666666667,High,Low Risk
+STU1012,AI & Data Science,3,72.41,91,66,8,5,11.75,73.88,68.56,62.5,Moderate,Moderate,Moderate,67.979,Moderate,Low Risk
+STU1013,Management,1,80.9,93,75,12,9,10.81,74.46,100.0,75.0,High,Moderate,Moderate,83.61000000000001,High,Low Risk
+STU1014,AI & Data Science,4,55.04,104,57,6,3,7.46,49.09,52.59,50.0,Low,Low,Moderate,52.663500000000006,Moderate,High Risk
+STU1015,AI & Data Science,4,57.3,78,45,10,1,9.12,71.15,96.25,10.0,Low,Low,Moderate,50.4825,Moderate,High Risk
+STU1016,Management,6,71.25,118,84,10,10,15.78,79.0,68.56,100.0,Moderate,High,High,80.64,High,Low Risk
+STU1017,Computer Science,1,65.85,97,64,13,4,14.5,87.37,53.27,30.76923076923077,Moderate,Low,Moderate,50.42673076923077,Moderate,Medium Risk
+STU1018,AI & Data Science,2,81.77,75,61,9,1,7.11,75.78,56.29,11.11111111111111,High,Low,Moderate,50.66938888888888,Moderate,Medium Risk
+STU1019,AI & Data Science,1,67.1,61,41,14,1,12.5,65.69,59.23,7.142857142857142,Moderate,Low,Moderate,44.1475,Low,High Risk
+STU1020,Electronics,3,61.05,99,60,8,5,15.76,92.72,72.63,62.5,Low,Moderate,High,64.4525,Moderate,Medium Risk
+STU1021,Management,1,95.59,76,73,9,9,3.65,81.98,74.41,100.0,High,High,Low,91.83850000000001,High,Low Risk
+STU1022,IT,1,75.29,114,86,14,8,14.72,82.7,54.67,57.14285714285714,High,Moderate,Moderate,63.783500000000004,Moderate,Low Risk
+STU1023,Computer Science,2,78.81,93,73,15,12,8.69,71.06,64.56,80.0,High,Moderate,Moderate,75.664,High,Low Risk
+STU1024,Computer Science,3,60.9,101,62,9,3,14.85,72.37,100.0,33.33333333333333,Low,Low,Moderate,61.026666666666664,Moderate,Medium Risk
+STU1025,Management,5,71.47,119,85,12,5,8.18,71.24,96.1,41.66666666666667,Moderate,Low,Moderate,67.19633333333334,Moderate,Low Risk
+STU1026,Electronics,5,79.33,75,59,14,6,2.98,75.86,72.85,42.857142857142854,High,Low,Low,64.9445,Moderate,Low Risk
+STU1027,Electronics,4,64.19,97,62,12,12,3.86,78.64,65.68,100.0,Low,High,Low,77.096,High,Medium Risk
+STU1028,Management,6,82.51,119,98,6,2,12.24,90.72,67.16,33.33333333333333,High,Low,Moderate,61.46066666666667,Moderate,Low Risk
+STU1029,Electronics,1,70.79,61,43,11,5,13.3,73.87,76.04,45.45454545454545,Moderate,Low,Moderate,63.235090909090914,Moderate,Low Risk
+STU1030,Computer Science,4,74.5,61,45,12,7,7.48,59.23,46.59,58.333333333333336,Moderate,Moderate,Moderate,61.86416666666667,Moderate,Low Risk
+STU1031,Computer Science,2,70.78,85,60,15,3,15.19,79.3,60.37,20.0,Moderate,Low,High,50.4045,Moderate,Medium Risk
+STU1032,IT,5,100.0,72,72,10,0,3.69,54.48,34.97,0.0,High,Low,Low,48.7425,Low,Medium Risk
+STU1033,Management,1,77.84,115,90,9,6,11.67,79.71,72.19,66.66666666666666,High,Moderate,Moderate,72.51683333333332,Moderate,Low Risk
+STU1034,AI & Data Science,2,65.31,106,69,15,2,5.94,66.48,76.65,13.333333333333334,Moderate,Low,Moderate,49.953166666666675,Low,Medium Risk
+STU1035,AI & Data Science,6,87.87,90,79,13,13,8.74,70.48,56.3,100.0,High,High,Moderate,84.223,High,Low Risk
+STU1036,IT,2,63.35,119,75,7,5,12.24,63.96,93.33,71.42857142857143,Low,Moderate,Moderate,73.6725,Moderate,Medium Risk
+STU1037,IT,1,80.51,93,75,14,1,7.7,73.63,42.94,7.142857142857142,High,Low,Moderate,45.439,Low,Medium Risk
+STU1038,Electronics,6,54.48,98,53,8,8,10.08,61.09,38.64,100.0,Low,High,Moderate,66.452,Moderate,High Risk
+STU1039,IT,2,62.06,62,38,13,0,17.03,69.88,69.04,0.0,Low,Low,High,42.084,Low,High Risk
+STU1040,IT,6,80.36,67,54,10,5,9.12,53.11,83.85,50.0,High,Low,Moderate,70.6065,Moderate,Low Risk
+STU1041,AI & Data Science,1,86.86,82,71,12,5,16.18,87.35,95.31,41.66666666666667,High,Low,High,73.15483333333333,Moderate,Low Risk
+STU1042,Electronics,1,80.06,73,58,11,4,6.35,83.62,56.74,36.36363636363637,High,Low,Moderate,58.93627272727273,Moderate,Medium Risk
+STU1043,IT,6,76.61,115,88,15,15,14.65,95.15,84.42,100.0,High,High,Moderate,86.74900000000001,High,Low Risk
+STU1044,IT,3,74.39,114,85,6,4,19.21,80.71,64.31,66.66666666666666,Moderate,Moderate,High,69.16683333333333,Moderate,Low Risk
+STU1045,Electronics,4,60.26,86,52,7,4,0.0,52.67,61.89,57.14285714285714,Low,Moderate,Low,59.576499999999996,Moderate,Medium Risk
+STU1046,Management,2,69.36,113,78,5,0,8.02,75.42,80.91,0.0,Moderate,Low,Moderate,47.9715,Low,Medium Risk
+STU1047,Electronics,2,72.47,88,64,13,9,14.89,72.2,76.74,69.23076923076923,Moderate,Moderate,Moderate,72.40376923076923,Moderate,Low Risk
+STU1048,AI & Data Science,3,90.69,98,89,11,11,10.98,77.66,36.62,100.0,High,High,Moderate,80.43100000000001,High,Low Risk
+STU1049,Management,3,82.12,112,92,5,4,13.86,89.28,91.58,80.0,High,Moderate,Moderate,83.74300000000001,High,Low Risk
+STU1050,Computer Science,3,56.84,98,56,7,1,8.98,80.58,89.84,14.285714285714285,Low,Low,Moderate,50.196000000000005,Moderate,High Risk
+STU1051,Electronics,5,81.89,60,49,8,6,12.43,76.04,53.74,75.0,High,Moderate,Moderate,72.441,Moderate,Low Risk
+STU1052,AI & Data Science,5,73.38,76,56,8,2,11.22,73.84,72.12,25.0,Moderate,Low,Moderate,56.132000000000005,Moderate,Medium Risk
+STU1053,Management,6,69.88,100,70,9,3,17.84,75.72,73.89,33.33333333333333,Moderate,Low,High,58.091166666666666,Moderate,Medium Risk
+STU1054,Electronics,5,85.34,89,76,7,2,13.27,74.01,69.69,28.57142857142857,High,Low,Moderate,61.5585,Moderate,Low Risk
+STU1055,IT,1,90.37,112,101,7,2,13.69,78.82,55.09,28.57142857142857,High,Low,Moderate,59.920500000000004,Moderate,Medium Risk
+STU1056,Electronics,6,89.18,72,64,5,3,9.94,78.51,52.91,60.0,High,Moderate,Moderate,69.8995,Moderate,Low Risk
+STU1057,Computer Science,2,67.93,80,54,11,4,9.56,78.51,64.54,36.36363636363637,Moderate,Low,Moderate,56.034272727272736,Moderate,Medium Risk
+STU1058,Electronics,4,74.29,78,58,15,0,9.84,69.28,86.11,0.0,Moderate,Low,Moderate,51.243500000000004,Moderate,Medium Risk
+STU1059,Management,1,81.98,112,92,14,3,13.97,93.18,74.78,21.428571428571427,High,Low,Moderate,58.987,Moderate,Medium Risk
+STU1060,Management,2,89.71,78,70,5,3,9.9,74.13,58.33,60.0,High,Moderate,Moderate,71.4665,Moderate,Low Risk
+STU1061,Electronics,2,72.25,116,84,6,3,13.45,78.5,78.89,50.0,Moderate,Low,Moderate,66.1225,Moderate,Low Risk
+STU1062,Management,6,75.77,84,64,8,7,22.38,76.46,13.73,87.5,High,High,High,64.3655,Moderate,Low Risk
+STU1063,IT,3,64.72,81,52,8,6,16.36,61.7,85.68,75.0,Low,Moderate,High,73.558,Moderate,Medium Risk
+STU1064,Electronics,3,63.65,90,57,9,8,10.37,74.47,33.69,88.88888888888889,Low,High,Moderate,64.99361111111111,Moderate,Medium Risk
+STU1065,IT,1,87.75,76,67,15,4,18.01,91.46,58.48,26.666666666666668,High,Low,High,59.053333333333335,Moderate,Medium Risk
+STU1066,IT,3,94.27,114,107,6,4,9.96,73.65,44.85,66.66666666666666,High,Moderate,Moderate,72.25383333333333,Moderate,Low Risk
+STU1067,AI & Data Science,2,77.14,82,63,8,3,1.81,61.99,41.7,37.5,High,Low,Low,54.406000000000006,Moderate,Medium Risk
+STU1068,Electronics,3,90.04,91,82,5,0,6.96,80.3,85.89,0.0,High,Low,Moderate,57.4885,Moderate,Medium Risk
+STU1069,Management,5,82.34,69,57,6,4,2.65,53.05,56.58,66.66666666666666,High,Moderate,Low,70.41433333333333,Moderate,Low Risk
+STU1070,IT,3,70.26,69,48,5,5,10.24,69.17,71.24,100.0,Moderate,High,Moderate,80.914,High,Low Risk
+STU1071,AI & Data Science,2,82.34,95,78,14,6,12.09,84.15,64.16,42.857142857142854,High,Low,Moderate,63.976,Moderate,Low Risk
+STU1072,Electronics,6,96.46,67,65,14,4,20.38,82.37,73.59,28.57142857142857,High,Low,High,66.98150000000001,Moderate,Low Risk
+STU1073,Electronics,1,77.57,113,88,8,3,13.63,81.07,66.38,37.5,High,Low,Moderate,60.748,Moderate,Low Risk
+STU1074,Computer Science,4,96.78,111,107,8,0,10.9,66.46,41.91,0.0,High,Low,Moderate,49.1895,Low,Medium Risk
+STU1075,Computer Science,3,46.56,79,37,11,9,16.15,79.7,82.93,81.81818181818183,Low,High,High,67.99286363636364,Moderate,High Risk
+STU1076,IT,2,87.86,91,80,14,9,0.94,64.55,56.11,64.28571428571429,High,Moderate,Low,71.6715,Moderate,Low Risk
+STU1077,Computer Science,4,79.04,109,86,15,6,13.18,62.09,36.98,40.0,High,Low,Moderate,54.861,Moderate,Medium Risk
+STU1078,IT,4,74.41,73,54,15,15,15.85,88.82,57.29,100.0,Moderate,High,High,79.0865,High,Low Risk
+STU1079,Management,5,79.1,109,86,13,0,4.61,65.47,92.01,0.0,High,Low,Low,54.6425,Moderate,Medium Risk
+STU1080,IT,4,54.15,87,47,13,0,17.72,72.95,80.3,0.0,Low,Low,High,41.735,Low,High Risk
+STU1081,Computer Science,6,75.36,105,79,9,4,13.69,78.92,58.72,44.44444444444444,High,Low,Moderate,60.379555555555555,Moderate,Low Risk
+STU1082,Management,2,82.29,111,91,14,12,9.92,83.71,58.71,85.71428571428571,High,High,Moderate,77.59349999999999,High,Low Risk
+STU1083,Computer Science,2,95.73,112,107,5,0,15.16,76.11,59.21,0.0,High,Low,High,53.094500000000004,Moderate,Medium Risk
+STU1084,IT,3,71.78,83,60,5,5,23.35,93.46,100.0,100.0,Moderate,High,High,88.712,High,Low Risk
+STU1085,AI & Data Science,3,68.3,74,51,10,2,12.91,79.62,71.87,20.0,Moderate,Low,Moderate,52.2875,Moderate,Medium Risk
+STU1086,Electronics,3,71.98,81,58,6,4,13.24,83.16,72.74,66.66666666666666,Moderate,Moderate,Moderate,70.31033333333333,Moderate,Low Risk
+STU1087,Computer Science,6,88.98,89,79,12,2,9.7,80.33,83.55,16.666666666666664,High,Low,Moderate,62.312833333333344,Moderate,Low Risk
+STU1088,IT,4,81.95,63,52,13,6,7.75,70.17,69.3,46.15384615384615,High,Low,Moderate,66.25884615384615,Moderate,Low Risk
+STU1089,Management,4,71.64,72,52,8,5,16.15,72.91,60.34,62.5,Moderate,Moderate,High,65.61600000000001,Moderate,Low Risk
+STU1090,Computer Science,5,84.16,118,99,9,8,7.72,73.37,61.47,88.88888888888889,High,High,Moderate,80.14261111111111,High,Low Risk
+STU1091,Computer Science,6,79.16,82,65,15,5,12.36,68.69,63.71,33.33333333333333,High,Low,Moderate,59.25816666666667,Moderate,Medium Risk
+STU1092,Electronics,3,89.62,67,60,12,4,9.61,53.29,64.33,33.33333333333333,High,Low,Moderate,63.597166666666666,Moderate,Low Risk
+STU1093,IT,1,69.58,77,54,7,1,14.39,82.53,78.1,14.285714285714285,Moderate,Low,Moderate,52.357,Moderate,Medium Risk
+STU1094,AI & Data Science,5,74.07,71,53,9,6,13.67,85.06,65.94,66.66666666666666,Moderate,Moderate,Moderate,69.44633333333333,Moderate,Low Risk
+STU1095,Management,1,73.29,114,84,7,0,17.19,64.43,78.19,0.0,Moderate,Low,High,48.8635,Low,Medium Risk
+STU1096,IT,4,60.44,90,54,14,11,9.45,61.0,63.55,78.57142857142857,Low,Moderate,Moderate,67.5635,Moderate,Medium Risk
+STU1097,Management,5,81.55,73,60,7,6,10.65,81.09,66.42,85.71428571428571,High,High,Moderate,79.225,High,Low Risk
+STU1098,Computer Science,5,81.13,93,75,7,7,7.11,83.75,29.03,100.0,High,High,Moderate,74.70949999999999,Moderate,Low Risk
+STU1099,Electronics,2,78.06,77,60,11,2,9.78,76.2,81.49,18.181818181818183,High,Low,Moderate,57.960136363636366,Moderate,Medium Risk
+STU1100,Electronics,4,75.18,115,86,11,8,13.89,73.18,71.24,72.72727272727273,High,Moderate,Moderate,73.33654545454546,Moderate,Low Risk
+STU1101,AI & Data Science,4,61.02,93,57,11,5,15.78,77.69,82.96,45.45454545454545,Low,Low,High,61.0570909090909,Moderate,Medium Risk
+STU1102,Electronics,6,72.95,70,51,14,8,7.39,74.65,12.87,57.14285714285714,Moderate,Moderate,Moderate,52.3975,Moderate,Medium Risk
+STU1103,Computer Science,5,73.89,100,74,12,12,16.35,79.92,100.0,100.0,Moderate,High,High,89.556,High,Low Risk
+STU1104,AI & Data Science,4,68.37,71,49,9,4,18.78,75.73,62.49,44.44444444444444,Moderate,Low,High,58.52605555555556,Moderate,Medium Risk
+STU1105,IT,5,76.06,108,82,9,6,14.07,77.23,84.95,66.66666666666666,High,Moderate,Moderate,74.99483333333333,Moderate,Low Risk
+STU1106,Electronics,6,82.85,74,61,8,3,21.38,79.3,46.28,37.5,High,Low,High,57.835,Moderate,Medium Risk
+STU1107,AI & Data Science,6,100.0,116,116,11,6,8.13,79.86,76.03,54.54545454545454,High,Moderate,Moderate,78.09840909090909,High,Low Risk
+STU1108,Computer Science,2,80.09,90,72,14,12,5.78,80.48,46.04,85.71428571428571,High,High,Moderate,73.546,Moderate,Low Risk
+STU1109,Management,5,81.09,108,88,8,0,3.11,68.04,53.77,0.0,High,Low,Low,45.8785,Low,Medium Risk
+STU1110,Management,4,77.11,117,90,6,6,19.48,87.57,99.45,100.0,High,High,High,90.70649999999999,High,Low Risk
+STU1111,Computer Science,4,54.97,88,48,8,7,15.27,72.12,61.57,87.5,Low,High,High,68.0055,Moderate,High Risk
+STU1112,Computer Science,5,77.68,85,66,12,4,11.72,64.25,68.91,33.33333333333333,High,Low,Moderate,59.966166666666666,Moderate,Medium Risk
+STU1113,Management,5,78.72,77,61,13,1,13.4,87.5,80.66,7.6923076923076925,High,Low,Moderate,54.34530769230769,Moderate,Medium Risk
+STU1114,AI & Data Science,5,100.0,91,91,7,4,6.37,75.9,73.92,57.14285714285714,High,Moderate,Moderate,78.48,High,Low Risk
+STU1115,Management,3,75.69,81,61,11,5,24.23,89.68,67.71,45.45454545454545,High,Low,High,63.11259090909091,Moderate,Low Risk
+STU1116,Computer Science,4,81.62,97,79,13,11,12.65,100.0,71.57,84.61538461538461,High,High,Moderate,80.15588461538462,High,Low Risk
+STU1117,Electronics,6,77.58,76,59,15,1,12.55,83.84,100.0,6.666666666666667,High,Low,Moderate,58.36533333333333,Moderate,Medium Risk
+STU1118,IT,4,63.98,82,52,8,5,15.63,71.41,63.96,62.5,Low,Moderate,High,63.457,Moderate,Medium Risk
+STU1119,Electronics,3,91.71,83,76,14,5,14.41,80.04,68.62,35.714285714285715,High,Low,Moderate,66.339,Moderate,Low Risk
+STU1120,Electronics,5,87.02,109,95,7,0,13.12,91.76,83.91,0.0,High,Low,Moderate,55.7855,Moderate,Medium Risk
+STU1121,Computer Science,2,87.49,67,59,9,0,8.05,77.62,84.9,0.0,High,Low,Moderate,56.221000000000004,Moderate,Medium Risk
+STU1122,Management,5,67.09,100,67,5,5,14.36,67.86,86.37,100.0,Moderate,High,Moderate,83.4285,High,Medium Risk
+STU1123,AI & Data Science,5,94.83,65,62,7,2,21.41,100.0,76.5,28.57142857142857,High,Low,High,67.057,Moderate,Low Risk
+STU1124,Electronics,3,61.18,64,39,12,9,18.73,72.75,44.43,75.0,Low,Moderate,High,61.8295,Moderate,Medium Risk
+STU1125,Management,4,85.04,103,88,15,2,19.97,100.0,94.4,13.333333333333334,High,Low,High,62.28266666666667,Moderate,Low Risk
+STU1126,AI & Data Science,5,100.0,116,116,12,9,9.44,85.3,44.37,75.0,High,Moderate,Moderate,77.3425,High,Low Risk
+STU1127,Electronics,4,66.11,88,58,8,2,7.05,64.87,70.45,25.0,Moderate,Low,Moderate,52.8065,Moderate,Medium Risk
+STU1128,AI & Data Science,1,71.2,87,62,6,3,11.37,82.87,51.42,50.0,Moderate,Low,Moderate,58.83500000000001,Moderate,Medium Risk
+STU1129,Management,6,79.2,70,55,12,1,12.28,77.74,63.85,8.333333333333332,High,Low,Moderate,50.55916666666667,Moderate,Medium Risk
+STU1130,IT,4,71.96,116,83,12,8,17.47,89.29,70.92,66.66666666666666,Moderate,Moderate,High,69.84733333333332,Moderate,Low Risk
+STU1131,Management,2,59.39,60,36,14,9,3.54,66.47,70.78,64.28571428571429,Low,Moderate,Low,63.951,Moderate,High Risk
+STU1132,Computer Science,6,78.82,102,80,8,6,19.65,80.22,72.59,75.0,High,Moderate,High,75.9255,High,Low Risk
+STU1133,AI & Data Science,2,65.25,78,51,7,6,11.21,70.9,94.05,85.71428571428571,Moderate,High,Moderate,79.6125,High,Medium Risk
+STU1134,IT,5,83.68,68,57,6,6,9.87,84.78,73.16,100.0,High,High,Moderate,86.762,High,Low Risk
+STU1135,AI & Data Science,6,66.97,86,58,13,5,6.94,64.66,60.61,38.46153846153847,Moderate,Low,Moderate,55.40203846153847,Moderate,Medium Risk
+STU1136,AI & Data Science,4,96.6,93,90,5,2,3.73,70.27,82.35,40.0,High,Low,Low,73.22749999999999,Moderate,Low Risk
+STU1137,Electronics,6,68.6,103,71,11,5,16.12,74.22,86.41,45.45454545454545,Moderate,Low,High,64.9515909090909,Moderate,Medium Risk
+STU1138,Computer Science,5,74.14,63,47,9,7,12.37,76.91,42.9,77.77777777777779,Moderate,Moderate,Moderate,67.60322222222223,Moderate,Low Risk
+STU1139,AI & Data Science,3,87.76,95,83,12,7,5.55,89.19,75.75,58.333333333333336,High,Moderate,Moderate,74.45816666666667,Moderate,Low Risk
+STU1140,Management,2,63.23,77,49,8,8,5.52,58.21,77.62,100.0,Low,High,Moderate,79.697,High,Medium Risk
+STU1141,Management,5,80.73,74,60,11,0,10.32,74.92,59.64,0.0,High,Low,Moderate,47.202,Low,Medium Risk
+STU1142,Electronics,3,93.69,110,103,9,0,20.35,100.0,89.76,0.0,High,Low,High,59.916,Moderate,Medium Risk
+STU1143,Computer Science,6,58.71,72,42,9,2,10.7,69.36,62.3,22.22222222222222,Low,Low,Moderate,46.83677777777778,Low,High Risk
+STU1144,Computer Science,6,80.22,78,63,13,2,4.48,72.13,67.26,15.384615384615385,High,Low,Low,54.28761538461539,Moderate,Medium Risk
+STU1145,Management,5,81.12,108,88,13,9,10.77,67.13,61.88,69.23076923076923,High,Moderate,Moderate,72.14876923076923,Moderate,Low Risk
+STU1146,IT,4,87.38,65,57,13,7,10.64,80.87,65.28,53.84615384615385,High,Moderate,Moderate,70.11815384615385,Moderate,Low Risk
+STU1147,Electronics,6,63.16,107,68,10,9,0.0,54.72,45.27,90.0,Low,High,Low,68.08149999999999,Moderate,Medium Risk
+STU1148,Electronics,4,62.15,115,71,10,0,11.73,77.19,39.08,0.0,Low,Low,Moderate,34.629999999999995,Low,High Risk
+STU1149,Management,4,84.26,71,60,9,1,10.85,89.82,93.7,11.11111111111111,High,Low,Moderate,61.01788888888889,Moderate,Low Risk
+STU1150,Management,4,81.56,110,90,13,1,15.48,100.0,49.75,7.6923076923076925,High,Low,High,47.753807692307696,Low,Medium Risk
+STU1151,IT,1,81.01,96,78,14,2,21.24,91.04,47.15,14.285714285714285,High,Low,High,49.191500000000005,Low,Medium Risk
+STU1152,IT,3,82.16,76,62,12,12,17.63,82.45,26.24,100.0,High,High,High,74.424,Moderate,Low Risk
+STU1153,Computer Science,3,69.84,117,82,11,5,10.66,73.22,53.5,45.45454545454545,Moderate,Low,Moderate,57.220090909090914,Moderate,Medium Risk
+STU1154,Electronics,6,80.79,82,66,11,0,6.47,65.07,41.18,0.0,High,Low,Moderate,42.611000000000004,Low,High Risk
+STU1155,Electronics,6,81.52,85,69,10,1,24.87,99.27,94.56,10.0,High,Low,High,59.748,Moderate,Medium Risk
+STU1156,Management,4,69.43,88,61,9,0,12.3,74.73,83.18,0.0,Moderate,Low,Moderate,48.56700000000001,Low,Medium Risk
+STU1157,Computer Science,1,100.0,92,92,8,4,12.07,82.14,52.61,50.0,High,Low,Moderate,70.6525,Moderate,Low Risk
+STU1158,Electronics,4,83.69,119,100,7,7,11.88,92.72,100.0,100.0,High,High,Moderate,93.476,High,Low Risk
+STU1159,Computer Science,1,63.7,86,55,7,4,12.99,68.38,82.67,57.14285714285714,Low,Moderate,Moderate,66.14750000000001,Moderate,Medium Risk
+STU1160,Computer Science,4,85.88,84,72,10,6,11.28,86.22,59.15,60.0,High,Moderate,Moderate,70.1395,Moderate,Low Risk
+STU1161,Management,2,66.3,115,76,8,7,9.13,75.47,20.01,87.5,Moderate,High,Moderate,62.147499999999994,Moderate,Medium Risk
+STU1162,Computer Science,2,87.45,114,100,10,9,9.27,79.04,100.0,90.0,High,High,Moderate,91.48,High,Low Risk
+STU1163,IT,5,91.9,69,63,7,0,11.84,60.0,39.99,0.0,High,Low,Moderate,46.75750000000001,Low,Medium Risk
+STU1164,IT,4,68.15,106,72,8,6,9.28,62.56,35.38,75.0,Moderate,Moderate,Moderate,62.355000000000004,Moderate,Medium Risk
+STU1165,AI & Data Science,6,89.56,82,73,13,12,8.44,87.9,83.41,92.3076923076923,High,High,Moderate,88.9841923076923,High,Low Risk
+STU1166,Management,3,82.95,80,66,9,4,12.53,82.59,100.0,44.44444444444444,High,Low,Moderate,73.73555555555555,Moderate,Low Risk
+STU1167,AI & Data Science,5,87.86,80,70,11,9,10.73,72.63,89.92,81.81818181818183,High,High,Moderate,86.26036363636364,High,Low Risk
+STU1168,IT,6,100.0,102,102,14,0,19.52,88.4,75.15,0.0,High,Low,High,58.7875,Moderate,Medium Risk
+STU1169,AI & Data Science,2,75.06,72,54,6,2,0.0,69.57,75.71,33.33333333333333,High,Low,Low,60.61816666666667,Moderate,Low Risk
+STU1170,Management,4,68.96,96,66,9,6,17.46,87.21,80.36,66.66666666666666,Moderate,Moderate,High,71.00733333333334,Moderate,Medium Risk
+STU1171,Management,5,67.33,92,62,13,9,18.23,81.24,78.66,69.23076923076923,Moderate,Moderate,High,70.82776923076923,Moderate,Medium Risk
+STU1172,Computer Science,4,68.21,83,57,15,0,1.63,59.49,70.06,0.0,Moderate,Low,Low,44.799,Low,High Risk
+STU1173,Electronics,2,77.07,103,79,7,6,10.29,71.5,66.88,85.71428571428571,High,High,Moderate,77.548,High,Low Risk
+STU1174,Computer Science,5,82.09,70,57,13,4,10.14,67.98,63.87,30.76923076923077,High,Low,Moderate,59.57273076923077,Moderate,Medium Risk
+STU1175,Management,2,81.32,76,62,15,0,4.96,80.38,51.43,0.0,High,Low,Low,45.3855,Low,Medium Risk
+STU1176,IT,1,87.93,63,55,10,0,8.11,71.33,59.95,0.0,High,Low,Moderate,50.15950000000001,Moderate,Medium Risk
+STU1177,IT,2,78.16,106,83,8,0,6.45,76.16,34.53,0.0,High,Low,Moderate,39.8965,Low,High Risk
+STU1178,Computer Science,4,95.44,84,80,11,10,20.76,100.0,63.23,90.9090909090909,High,High,High,85.80168181818182,High,Low Risk
+STU1179,Management,3,74.82,89,67,12,8,16.68,87.37,47.21,66.66666666666666,Moderate,Moderate,High,65.06383333333332,Moderate,Low Risk
+STU1180,IT,2,100.0,68,68,10,10,18.36,83.99,45.14,100.0,High,High,High,86.285,High,Low Risk
+STU1181,Management,6,85.51,80,68,9,2,15.61,86.53,68.24,22.22222222222222,High,Low,High,59.04177777777778,Moderate,Medium Risk
+STU1182,IT,3,67.71,79,53,10,4,6.35,70.17,90.06,40.0,Moderate,Low,Moderate,63.599000000000004,Moderate,Medium Risk
+STU1183,Management,1,65.15,78,51,9,9,9.38,65.09,81.53,100.0,Moderate,High,Moderate,81.4425,High,Medium Risk
+STU1184,AI & Data Science,5,83.79,78,65,12,11,14.45,80.29,36.73,91.66666666666666,High,High,Moderate,74.78183333333334,Moderate,Low Risk
+STU1185,Management,5,75.32,71,53,5,0,5.89,57.13,47.19,0.0,High,Low,Moderate,41.9255,Low,High Risk
+STU1186,Management,3,86.57,96,83,15,5,15.56,94.65,81.93,33.33333333333333,High,Low,High,66.77716666666666,Moderate,Low Risk
+STU1187,Computer Science,5,83.68,101,85,11,11,10.8,70.84,47.32,100.0,High,High,Moderate,80.302,High,Low Risk
+STU1188,AI & Data Science,2,77.13,76,59,14,8,10.13,75.36,60.96,57.14285714285714,High,Moderate,Moderate,66.092,Moderate,Low Risk
+STU1189,Electronics,3,67.84,96,65,14,7,15.55,81.88,74.9,50.0,Moderate,Low,High,63.361000000000004,Moderate,Medium Risk
+STU1190,Computer Science,4,59.82,113,68,15,7,14.22,70.66,47.57,46.666666666666664,Low,Low,Moderate,52.15383333333333,Moderate,High Risk
+STU1191,Electronics,2,72.64,107,78,6,0,10.2,78.12,66.9,0.0,Moderate,Low,Moderate,45.781000000000006,Low,Medium Risk
+STU1192,IT,2,88.28,98,87,13,12,17.8,79.54,40.99,92.3076923076923,High,High,High,77.8671923076923,High,Low Risk
+STU1193,Electronics,2,80.57,87,70,5,0,6.59,76.53,54.18,0.0,High,Low,Moderate,45.773,Low,Medium Risk
+STU1194,Management,4,63.05,100,63,15,5,15.08,66.58,70.76,33.33333333333333,Low,Low,High,54.57666666666667,Moderate,Medium Risk
+STU1195,Electronics,1,80.08,94,75,14,8,14.97,78.35,36.33,57.14285714285714,High,Moderate,Moderate,61.11449999999999,Moderate,Low Risk
+STU1196,Computer Science,6,82.62,106,88,10,2,10.45,92.46,72.93,20.0,High,Low,Moderate,58.2805,Moderate,Medium Risk
+STU1197,Computer Science,5,67.39,107,72,13,11,13.63,67.96,64.65,84.61538461538461,Moderate,High,Moderate,72.73388461538462,Moderate,Medium Risk
+STU1198,Electronics,3,79.84,77,61,5,2,5.74,65.43,74.94,40.0,High,Low,Moderate,64.671,Moderate,Low Risk
+STU1199,Computer Science,1,78.7,73,57,8,5,16.62,87.01,69.03,62.5,High,Moderate,High,70.61250000000001,Moderate,Low Risk
+STU1200,Computer Science,3,64.28,94,60,8,8,11.08,76.54,89.55,100.0,Low,High,Moderate,83.0995,High,Medium Risk
+STU1201,Electronics,5,82.29,103,85,13,6,9.39,77.71,67.25,46.15384615384615,High,Low,Moderate,65.88234615384616,Moderate,Low Risk
+STU1202,AI & Data Science,4,84.73,100,85,15,13,17.25,87.66,57.27,86.66666666666667,High,High,High,78.54283333333333,High,Low Risk
+STU1203,AI & Data Science,2,91.0,119,108,9,2,8.48,81.07,67.2,22.22222222222222,High,Low,Moderate,60.977777777777774,Moderate,Low Risk
+STU1204,IT,2,90.65,66,60,9,2,4.96,81.46,74.78,22.22222222222222,High,Low,Low,62.732777777777784,Moderate,Low Risk
+STU1205,Computer Science,4,61.47,100,61,10,1,4.22,66.61,65.88,10.0,Low,Low,Low,44.558,Low,High Risk
+STU1206,Electronics,1,66.75,72,48,5,0,15.03,75.68,65.73,0.0,Moderate,Low,High,43.13250000000001,Low,High Risk
+STU1207,Computer Science,1,84.18,77,65,5,4,5.6,74.43,52.36,80.0,High,Moderate,Moderate,74.762,Moderate,Low Risk
+STU1208,Management,3,84.17,96,81,13,2,20.77,100.0,53.07,15.384615384615385,High,Low,High,52.320115384615384,Moderate,Medium Risk
+STU1209,Computer Science,4,84.18,72,61,7,2,1.59,61.66,39.75,28.57142857142857,High,Low,Low,53.609500000000004,Moderate,Medium Risk
+STU1210,Computer Science,1,100.0,95,95,8,4,20.48,88.36,96.49,50.0,High,Low,High,81.6225,High,Low Risk
+STU1211,AI & Data Science,4,84.85,90,76,5,5,13.06,85.85,42.61,100.0,High,High,Moderate,79.5925,High,Low Risk
+STU1212,Electronics,5,91.63,61,56,13,13,11.52,77.07,52.53,100.0,High,High,Moderate,84.78450000000001,High,Low Risk
+STU1213,Computer Science,2,89.45,75,67,12,8,9.28,57.36,52.07,66.66666666666666,High,Moderate,Moderate,72.13083333333333,Moderate,Low Risk
+STU1214,AI & Data Science,2,85.82,68,58,6,1,14.0,89.76,81.11,16.666666666666664,High,Low,Moderate,60.438833333333335,Moderate,Low Risk
+STU1215,IT,2,74.22,68,50,12,2,11.81,70.61,59.69,16.666666666666664,Moderate,Low,Moderate,50.44383333333333,Moderate,Medium Risk
+STU1216,AI & Data Science,4,87.11,97,84,11,1,17.52,87.57,87.46,9.090909090909092,High,Low,High,59.890818181818176,Moderate,Medium Risk
+STU1217,AI & Data Science,4,68.73,70,48,15,15,12.57,76.27,52.88,100.0,Moderate,High,Moderate,75.712,High,Medium Risk
+STU1218,AI & Data Science,3,75.16,113,85,10,7,12.75,79.02,70.02,70.0,High,Moderate,Moderate,72.069,Moderate,Low Risk
+STU1219,Computer Science,2,72.18,115,83,5,5,10.18,76.93,49.96,100.0,Moderate,High,Moderate,76.362,High,Low Risk
+STU1220,Computer Science,3,78.98,81,64,11,5,11.72,77.32,100.0,45.45454545454545,High,Low,Moderate,72.50109090909092,Moderate,Low Risk
+STU1221,IT,2,100.0,92,92,14,11,13.54,85.59,43.62,78.57142857142857,High,Moderate,Moderate,78.405,High,Low Risk
+STU1222,Management,3,55.59,95,53,11,8,3.45,59.43,70.58,72.72727272727273,Low,Moderate,Low,65.33554545454545,Moderate,High Risk
+STU1223,Management,3,86.24,104,90,13,7,5.26,77.95,76.41,53.84615384615385,High,Moderate,Moderate,72.44465384615384,Moderate,Low Risk
+STU1224,Management,5,58.65,82,48,5,3,15.72,82.14,72.45,60.0,Low,Moderate,High,62.572500000000005,Moderate,High Risk
+STU1225,IT,3,72.34,104,75,6,6,12.85,68.43,61.66,100.0,Moderate,High,Moderate,79.351,High,Low Risk
+STU1226,Management,4,91.07,104,95,15,11,11.08,87.27,62.66,73.33333333333333,High,Moderate,Moderate,77.75966666666666,High,Low Risk
+STU1227,Management,3,78.77,93,73,13,3,12.09,72.81,65.79,23.076923076923077,High,Low,Moderate,56.03242307692308,Moderate,Medium Risk
+STU1228,AI & Data Science,2,65.07,68,44,13,8,13.74,81.7,62.35,61.53846153846154,Moderate,Moderate,Moderate,63.15396153846154,Moderate,Medium Risk
+STU1229,Computer Science,3,69.42,83,58,10,0,9.3,76.34,82.35,0.0,Moderate,Low,Moderate,48.3555,Low,Medium Risk
+STU1230,Computer Science,1,86.16,67,58,10,1,8.11,92.97,100.0,10.0,High,Low,Moderate,62.964,Moderate,Low Risk
+STU1231,AI & Data Science,6,69.24,66,46,8,1,12.98,72.69,54.97,12.5,Moderate,Low,Moderate,45.8135,Low,Medium Risk
+STU1232,AI & Data Science,2,80.6,95,77,8,5,7.11,65.73,40.34,62.5,High,Moderate,Moderate,64.2,Moderate,Low Risk
+STU1233,AI & Data Science,1,78.55,77,60,9,3,14.04,78.94,63.41,33.33333333333333,High,Low,Moderate,58.939166666666665,Moderate,Medium Risk
+STU1234,Computer Science,2,70.18,62,44,7,7,3.49,66.3,100.0,100.0,Moderate,High,Low,88.072,High,Low Risk
+STU1235,Management,4,100.0,87,87,5,4,17.15,93.04,50.53,80.0,High,Moderate,High,80.6325,High,Low Risk
+STU1236,AI & Data Science,6,85.61,65,56,5,2,14.36,72.05,94.5,40.0,High,Low,Moderate,71.869,Moderate,Low Risk
+STU1237,IT,6,53.7,103,55,11,9,13.28,67.36,95.2,81.81818181818183,Low,High,Moderate,73.91636363636364,Moderate,High Risk
+STU1238,AI & Data Science,4,80.24,103,83,5,4,16.91,73.42,55.04,80.0,High,Moderate,High,73.856,Moderate,Low Risk
+STU1239,Electronics,6,70.06,80,56,5,2,20.33,93.54,75.24,40.0,Moderate,Low,High,60.834,Moderate,Low Risk
+STU1240,AI & Data Science,4,88.23,87,77,7,2,17.07,100.0,94.31,28.57142857142857,High,Low,High,68.8695,Moderate,Low Risk
+STU1241,Computer Science,1,68.49,99,68,14,2,2.8,61.62,58.18,14.285714285714285,Moderate,Low,Low,46.941,Low,Medium Risk
+STU1242,AI & Data Science,5,76.62,113,87,8,5,5.6,66.89,61.34,62.5,High,Moderate,Moderate,67.858,Moderate,Low Risk
+STU1243,Electronics,2,84.06,113,95,8,7,8.88,73.77,54.53,87.5,High,High,Moderate,77.88149999999999,High,Low Risk
+STU1244,IT,4,88.39,60,53,6,2,12.13,86.56,46.73,33.33333333333333,High,Low,Moderate,58.70516666666666,Moderate,Medium Risk
+STU1245,Management,2,63.6,95,60,5,5,14.59,67.38,53.31,100.0,Low,High,Moderate,73.7675,Moderate,Medium Risk
+STU1246,AI & Data Science,1,73.99,80,59,7,3,8.37,70.61,42.97,42.857142857142854,Moderate,Low,Moderate,55.338499999999996,Moderate,Medium Risk
+STU1247,Electronics,5,72.3,119,86,15,10,12.93,84.27,65.61,66.66666666666666,Moderate,Moderate,Moderate,68.65583333333333,Moderate,Low Risk
+STU1248,Electronics,1,70.16,102,72,8,3,8.22,72.55,51.14,37.5,Moderate,Low,Moderate,53.974000000000004,Moderate,Medium Risk
+STU1249,IT,6,99.19,94,93,7,2,8.94,80.35,69.21,28.57142857142857,High,Low,Moderate,66.9785,Moderate,Low Risk
+STU1250,Computer Science,2,82.86,72,60,12,9,4.97,74.12,36.99,75.0,High,Moderate,Low,68.6415,Moderate,Low Risk
+STU1251,AI & Data Science,5,62.87,116,73,14,14,7.38,46.47,70.96,100.0,Low,High,Moderate,77.88799999999999,High,Medium Risk
+STU1252,Electronics,6,89.01,108,96,5,2,5.24,78.57,80.0,40.0,High,Low,Moderate,69.60400000000001,Moderate,Low Risk
+STU1253,IT,5,100.0,113,113,6,2,7.12,66.81,29.11,33.33333333333333,High,Low,Moderate,58.94416666666666,Moderate,Medium Risk
+STU1254,Management,6,90.39,113,102,11,10,17.27,72.28,71.73,90.9090909090909,High,High,High,85.90668181818182,High,Low Risk
+STU1255,Electronics,1,59.77,69,41,8,1,7.25,73.19,87.1,12.5,Low,Low,Moderate,50.058,Moderate,High Risk
+STU1256,IT,4,72.19,112,81,12,0,25.16,99.42,43.23,0.0,Moderate,Low,High,39.6835,Low,High Risk
+STU1257,Computer Science,2,93.2,103,96,15,8,14.47,85.97,95.11,53.333333333333336,High,Moderate,Moderate,79.72416666666668,High,Low Risk
+STU1258,Computer Science,3,69.51,106,74,7,3,12.92,84.21,72.54,42.857142857142854,Moderate,Low,Moderate,60.93900000000001,Moderate,Medium Risk
+STU1259,Electronics,3,83.33,112,93,10,1,7.71,84.26,52.31,10.0,High,Low,Moderate,49.9095,Low,Medium Risk
+STU1260,Electronics,1,87.3,69,60,13,12,15.5,93.62,64.0,92.3076923076923,High,High,High,83.22769230769231,High,Low Risk
+STU1261,AI & Data Science,2,66.88,105,70,5,0,9.12,84.79,75.05,0.0,Moderate,Low,Moderate,45.5145,Low,Medium Risk
+STU1262,IT,2,77.29,72,56,5,3,12.61,83.35,66.37,60.0,High,Moderate,Moderate,68.5085,Moderate,Low Risk
+STU1263,Electronics,1,39.1,96,38,12,7,24.8,84.1,74.7,58.333333333333336,Low,Moderate,High,54.73166666666667,Moderate,High Risk
+STU1264,AI & Data Science,2,65.71,97,64,7,0,11.52,58.25,48.43,0.0,Moderate,Low,Moderate,38.3915,Low,High Risk
+STU1265,AI & Data Science,4,74.97,83,62,9,9,17.75,81.24,68.05,100.0,Moderate,High,High,82.0005,High,Low Risk
+STU1266,Electronics,1,63.03,61,38,5,1,8.48,58.94,39.55,20.0,Low,Low,Moderate,42.099500000000006,Low,High Risk
+STU1267,Computer Science,4,97.59,81,79,9,4,11.83,98.51,63.0,44.44444444444444,High,Low,Moderate,70.34155555555556,Moderate,Low Risk
+STU1268,IT,2,60.84,76,46,15,15,20.85,79.67,48.73,100.0,Low,High,High,71.5185,Moderate,Medium Risk
+STU1269,IT,1,72.72,95,69,10,6,8.87,71.01,51.76,60.0,Moderate,Moderate,Moderate,63.028,Moderate,Low Risk
+STU1270,Computer Science,2,79.57,73,58,12,9,21.06,95.05,87.25,75.0,High,Moderate,High,79.8905,High,Low Risk
+STU1271,Electronics,1,95.3,69,66,7,3,15.54,87.98,84.64,42.857142857142854,High,Low,High,74.28,Moderate,Low Risk
+STU1272,IT,2,60.77,94,57,7,0,9.19,83.89,75.96,0.0,Low,Low,Moderate,43.298,Low,High Risk
+STU1273,Electronics,4,91.96,84,77,15,2,15.16,76.64,45.34,13.333333333333334,High,Low,High,52.785666666666664,Moderate,Medium Risk
+STU1274,Electronics,4,78.12,62,48,15,4,16.86,83.44,59.3,26.666666666666668,High,Low,High,55.406333333333336,Moderate,Medium Risk
+STU1275,AI & Data Science,2,66.22,106,70,14,2,15.11,74.17,86.84,14.285714285714285,Moderate,Low,High,53.198,Moderate,Medium Risk
+STU1276,Computer Science,1,83.55,97,81,13,11,4.15,58.41,67.55,84.61538461538461,High,High,Low,79.92288461538462,High,Low Risk
+STU1277,Electronics,3,80.39,76,61,8,6,8.36,72.24,100.0,75.0,High,Moderate,Moderate,83.406,High,Low Risk
+STU1278,Management,4,70.8,71,50,8,8,10.76,73.97,72.08,100.0,Moderate,High,Moderate,81.34,High,Low Risk
+STU1279,Computer Science,4,78.84,113,89,11,11,11.63,73.44,68.46,100.0,High,High,Moderate,83.651,High,Low Risk
+STU1280,IT,6,73.38,111,81,6,5,15.1,73.06,59.44,83.33333333333334,Moderate,High,High,73.37866666666667,Moderate,Low Risk
+STU1281,AI & Data Science,3,79.36,83,66,12,12,12.89,67.14,67.4,100.0,High,High,Moderate,83.594,High,Low Risk
+STU1282,IT,2,85.95,88,76,10,9,5.32,69.68,62.26,90.0,High,High,Moderate,81.445,High,Low Risk
+STU1283,IT,1,97.03,102,99,7,0,13.9,73.23,77.75,0.0,High,Low,Moderate,58.249500000000005,Moderate,Medium Risk
+STU1284,Computer Science,6,63.15,84,53,13,6,15.05,84.8,82.22,46.15384615384615,Low,Low,High,61.96884615384615,Moderate,Medium Risk
+STU1285,IT,2,100.0,95,95,9,2,14.8,84.52,50.85,22.22222222222222,High,Low,Moderate,60.49027777777778,Moderate,Low Risk
+STU1286,Electronics,5,54.57,117,64,12,4,17.4,62.79,41.04,33.33333333333333,Low,Low,High,43.754666666666665,Low,High Risk
+STU1287,IT,4,76.18,119,91,11,9,16.17,74.81,31.95,81.81818181818183,High,High,High,67.09586363636365,Moderate,Low Risk
+STU1288,AI & Data Science,5,85.06,85,72,12,3,14.3,76.3,74.14,25.0,High,Low,Moderate,61.309,Moderate,Low Risk
+STU1289,AI & Data Science,4,81.37,97,79,11,9,11.65,77.29,45.14,81.81818181818183,High,High,Moderate,72.46936363636364,Moderate,Low Risk
+STU1290,Management,4,70.53,60,42,7,4,3.7,70.94,26.25,57.14285714285714,Moderate,Moderate,Low,54.7745,Moderate,Medium Risk
+STU1291,AI & Data Science,5,75.5,79,60,6,4,14.15,64.49,71.99,66.66666666666666,High,Moderate,Moderate,71.53083333333333,Moderate,Low Risk
+STU1292,IT,5,72.08,114,82,11,5,13.04,81.59,100.0,45.45454545454545,Moderate,Low,Moderate,69.7410909090909,Moderate,Low Risk
+STU1293,AI & Data Science,2,70.93,87,62,7,5,13.36,75.27,64.89,71.42857142857143,Moderate,Moderate,Moderate,69.5945,Moderate,Low Risk
+STU1294,Computer Science,6,88.2,75,66,7,1,5.62,78.77,80.09,14.285714285714285,High,Low,Moderate,60.3025,Moderate,Low Risk
+STU1295,AI & Data Science,6,82.28,106,87,6,3,6.59,73.17,66.47,50.0,High,Low,Moderate,67.0295,Moderate,Low Risk
+STU1296,Electronics,5,69.69,76,53,8,5,17.27,74.71,63.22,62.5,Moderate,Moderate,High,65.55600000000001,Moderate,Medium Risk
+STU1297,Computer Science,2,88.8,99,88,12,7,11.8,78.59,81.54,58.333333333333336,High,Moderate,Moderate,76.32166666666667,High,Low Risk
+STU1298,Management,6,81.69,87,71,5,2,15.41,74.72,59.78,40.0,High,Low,High,61.621,Moderate,Low Risk
+STU1299,Electronics,2,87.75,117,103,5,0,12.14,88.49,69.81,0.0,High,Low,Moderate,52.5525,Moderate,Medium Risk
+STU1300,IT,2,85.56,71,61,9,7,12.15,79.63,70.79,77.77777777777779,High,Moderate,Moderate,79.14372222222224,High,Low Risk
+STU1301,IT,4,68.05,86,59,15,12,16.69,93.61,52.97,80.0,Moderate,Moderate,High,68.4625,Moderate,Medium Risk
+STU1302,IT,6,71.28,113,81,9,1,9.42,73.58,82.86,11.11111111111111,Moderate,Low,Moderate,53.11588888888889,Moderate,Medium Risk
+STU1303,Electronics,6,86.97,112,97,15,13,12.48,73.47,61.85,86.66666666666667,High,High,Moderate,80.58383333333335,High,Low Risk
+STU1304,Electronics,4,85.32,101,86,5,5,9.69,62.02,51.4,100.0,High,High,Moderate,81.978,High,Low Risk
+STU1305,Electronics,5,77.75,118,92,10,9,9.83,60.76,74.66,90.0,High,High,Moderate,81.26499999999999,High,Low Risk
+STU1306,Computer Science,4,79.41,106,84,5,3,10.45,60.58,48.83,60.0,High,Moderate,Moderate,64.97149999999999,Moderate,Low Risk
+STU1307,Computer Science,6,93.33,89,83,9,0,13.11,84.06,65.51,0.0,High,Low,Moderate,53.709500000000006,Moderate,Medium Risk
+STU1308,IT,6,70.9,100,71,13,9,9.61,76.1,64.84,69.23076923076923,Moderate,Moderate,Moderate,68.80076923076922,Moderate,Low Risk
+STU1309,AI & Data Science,5,84.57,93,79,9,1,18.28,75.57,84.55,11.11111111111111,High,Low,High,58.85438888888888,Moderate,Medium Risk
+STU1310,IT,4,75.57,96,73,10,1,7.53,78.91,73.54,10.0,High,Low,Moderate,52.113,Moderate,Medium Risk
+STU1311,Management,1,75.39,65,49,12,11,11.07,71.01,64.55,91.66666666666666,High,High,Moderate,78.37683333333334,High,Low Risk
+STU1312,Computer Science,1,91.19,66,60,15,2,9.8,80.3,79.72,13.333333333333334,High,Low,Moderate,61.07266666666666,Moderate,Low Risk
+STU1313,Electronics,5,87.9,91,80,5,1,19.23,100.0,90.02,20.0,High,Low,High,64.665,Moderate,Low Risk
+STU1314,Computer Science,4,87.76,91,80,6,6,12.98,88.7,75.04,100.0,High,High,Moderate,88.86400000000002,High,Low Risk
+STU1315,Electronics,4,93.67,112,105,13,1,17.16,84.68,65.19,7.6923076923076925,High,Low,High,56.457807692307696,Moderate,Medium Risk
+STU1316,Management,2,78.25,84,66,7,5,4.57,57.89,41.39,71.42857142857143,High,Moderate,Low,66.6475,Moderate,Low Risk
+STU1317,Management,6,86.18,92,79,10,0,13.34,60.83,45.83,0.0,High,Low,Moderate,45.929500000000004,Low,Medium Risk
+STU1318,Computer Science,3,74.28,114,85,9,5,16.45,74.69,59.51,55.55555555555556,Moderate,Moderate,High,64.03394444444444,Moderate,Low Risk
+STU1319,Electronics,5,81.89,117,96,15,8,12.41,75.16,54.03,53.333333333333336,High,Moderate,Moderate,64.93016666666668,Moderate,Low Risk
+STU1320,Management,3,76.44,66,50,6,6,17.33,74.4,61.63,100.0,High,High,High,80.98349999999999,High,Low Risk
+STU1321,IT,3,79.16,111,88,11,2,9.41,72.96,66.02,18.181818181818183,High,Low,Moderate,54.53263636363637,Moderate,Medium Risk
+STU1322,IT,5,85.14,116,99,8,5,19.05,88.7,74.53,62.5,High,Moderate,High,74.5635,Moderate,Low Risk
+STU1323,Electronics,4,68.18,71,48,5,2,23.49,86.09,63.73,40.0,Moderate,Low,High,57.2045,Moderate,Medium Risk
+STU1324,Computer Science,5,100.0,75,75,8,0,10.19,75.87,73.76,0.0,High,Low,Moderate,58.44,Moderate,Medium Risk
+STU1325,Management,3,65.93,75,49,10,4,9.77,72.5,66.16,40.0,Moderate,Low,Moderate,56.912,Moderate,Medium Risk
+STU1326,Computer Science,6,63.43,102,65,11,9,19.27,81.05,29.44,81.81818181818183,Low,High,High,61.36836363636364,Moderate,Medium Risk
+STU1327,IT,6,91.9,112,103,11,10,19.9,78.9,48.09,90.9090909090909,High,High,High,80.60068181818181,High,Low Risk
+STU1328,Management,6,87.5,95,83,11,3,9.39,86.91,62.41,27.27272727272727,High,Low,Moderate,60.147954545454546,Moderate,Low Risk
+STU1329,Computer Science,4,85.49,72,62,7,6,9.9,72.65,43.23,85.71428571428571,High,High,Moderate,75.0035,High,Low Risk
+STU1330,AI & Data Science,1,85.54,66,56,10,5,10.59,78.34,75.8,50.0,High,Low,Moderate,70.666,Moderate,Low Risk
+STU1331,Electronics,5,77.85,95,74,12,9,5.28,77.57,92.55,75.0,High,Moderate,Moderate,80.5275,High,Low Risk
+STU1332,Electronics,6,67.23,106,71,8,6,7.41,72.99,86.94,75.0,Moderate,Moderate,Moderate,74.87700000000001,Moderate,Medium Risk
+STU1333,AI & Data Science,5,78.91,110,87,12,4,6.98,78.07,61.16,33.33333333333333,High,Low,Moderate,58.52066666666666,Moderate,Medium Risk
+STU1334,IT,6,69.87,68,48,6,6,8.16,75.58,91.83,100.0,Moderate,High,Moderate,85.9055,High,Medium Risk
+STU1335,Management,4,89.7,91,82,14,14,11.83,74.84,67.68,100.0,High,High,Moderate,87.8,High,Low Risk
+STU1336,Electronics,1,76.24,70,53,13,3,13.17,79.83,58.93,23.076923076923077,High,Low,Moderate,53.30542307692308,Moderate,Medium Risk
+STU1337,AI & Data Science,1,68.09,67,46,13,6,19.75,73.05,53.96,46.15384615384615,Moderate,Low,High,56.87984615384616,Moderate,Medium Risk
+STU1338,AI & Data Science,6,74.14,92,68,12,6,7.01,69.96,59.56,50.0,Moderate,Low,Moderate,62.04600000000001,Moderate,Low Risk
+STU1339,IT,4,82.96,82,68,14,5,16.92,82.74,58.01,35.714285714285715,High,Low,High,60.186499999999995,Moderate,Low Risk
+STU1340,IT,2,71.24,84,60,14,7,10.93,72.43,68.07,50.0,Moderate,Low,Moderate,63.01349999999999,Moderate,Low Risk
+STU1341,Computer Science,5,68.13,115,78,5,3,11.75,73.26,67.89,60.0,Moderate,Moderate,Moderate,65.22449999999999,Moderate,Medium Risk
+STU1342,Electronics,5,80.92,67,54,6,1,15.37,66.43,65.05,16.666666666666664,High,Low,High,54.46383333333334,Moderate,Medium Risk
+STU1343,Computer Science,3,80.94,104,84,10,4,6.39,67.25,72.86,40.0,High,Low,Moderate,64.591,Moderate,Low Risk
+STU1344,AI & Data Science,4,71.92,81,58,14,3,13.91,80.79,86.43,21.428571428571427,Moderate,Low,Moderate,57.8755,Moderate,Medium Risk
+STU1345,Management,3,72.35,118,85,9,0,12.83,79.62,82.09,0.0,Moderate,Low,Moderate,49.4625,Low,Medium Risk
+STU1346,Management,6,80.78,63,51,13,11,14.46,68.92,38.27,84.61538461538461,High,High,Moderate,71.49488461538462,Moderate,Low Risk
+STU1347,IT,3,60.62,99,60,9,7,13.45,78.7,19.03,77.77777777777779,Low,Moderate,Moderate,56.227722222222226,Moderate,Medium Risk
+STU1348,Management,1,61.11,62,38,6,0,24.28,82.3,81.82,0.0,Low,Low,High,44.899,Low,High Risk
+STU1349,Management,5,69.38,88,61,14,4,8.81,75.52,40.4,28.57142857142857,Moderate,Low,Moderate,47.852,Low,Medium Risk
+STU1350,Management,3,75.44,100,75,8,5,9.35,75.81,60.95,62.5,High,Moderate,Moderate,67.2885,Moderate,Low Risk
+STU1351,AI & Data Science,1,81.73,88,72,13,5,8.88,66.2,43.94,38.46153846153847,High,Low,Moderate,57.13853846153846,Moderate,Medium Risk
+STU1352,Management,4,95.7,93,89,5,4,9.22,88.1,32.56,80.0,High,Moderate,Moderate,74.42,Moderate,Low Risk
+STU1353,Management,3,88.29,93,82,15,4,8.81,67.07,74.75,26.666666666666668,High,Low,Moderate,63.33683333333334,Moderate,Low Risk
+STU1354,Management,6,76.08,87,66,5,2,17.95,92.35,78.66,40.0,High,Low,High,64.09700000000001,Moderate,Low Risk
+STU1355,Computer Science,6,77.77,72,56,11,4,19.1,91.93,54.62,36.36363636363637,High,Low,High,57.49027272727273,Moderate,Medium Risk
+STU1356,AI & Data Science,6,65.97,74,49,15,11,9.15,59.31,18.36,73.33333333333333,Moderate,Moderate,Moderate,56.644666666666666,Moderate,Medium Risk
+STU1357,IT,5,77.78,119,93,7,7,7.84,81.61,55.17,100.0,High,High,Moderate,79.9045,High,Low Risk
+STU1358,Computer Science,3,74.54,82,61,14,13,14.36,77.51,72.05,92.85714285714286,Moderate,High,Moderate,80.3285,High,Low Risk
+STU1359,Electronics,4,81.87,103,84,6,1,9.24,73.47,38.38,16.666666666666664,High,Low,Moderate,48.17633333333333,Low,Medium Risk
+STU1360,AI & Data Science,3,68.07,85,58,13,5,15.16,80.49,68.3,38.46153846153847,Moderate,Low,High,57.764538461538464,Moderate,Medium Risk
+STU1361,AI & Data Science,5,84.23,63,53,7,0,13.01,78.37,64.72,0.0,High,Low,Moderate,49.872,Low,Medium Risk
+STU1362,Electronics,1,96.39,85,82,6,5,4.42,79.94,75.43,83.33333333333334,High,High,Low,86.58016666666667,High,Low Risk
+STU1363,Electronics,5,76.69,99,76,12,10,19.74,92.26,67.15,83.33333333333334,High,High,High,76.63016666666667,High,Low Risk
+STU1364,Electronics,6,82.82,68,56,14,7,20.98,72.59,47.48,50.0,High,Low,High,62.498,Moderate,Low Risk
+STU1365,IT,1,86.28,114,98,10,7,8.94,88.11,86.54,70.0,High,Moderate,Moderate,80.647,High,Low Risk
+STU1366,Management,6,73.19,64,47,10,6,10.06,59.53,62.15,60.0,Moderate,Moderate,Moderate,65.81349999999999,Moderate,Low Risk
+STU1367,AI & Data Science,2,80.69,115,93,14,7,13.43,87.29,64.51,50.0,High,Low,Moderate,65.90350000000001,Moderate,Low Risk
+STU1368,Management,5,78.15,91,71,15,12,13.67,85.74,48.2,80.0,High,Moderate,Moderate,71.31,Moderate,Low Risk
+STU1369,Management,5,79.17,79,63,11,5,15.29,71.26,57.02,45.45454545454545,High,Low,High,61.832090909090915,Moderate,Low Risk
+STU1370,Electronics,4,68.72,109,75,11,1,22.05,81.24,49.07,9.090909090909092,Moderate,Low,High,42.937318181818185,Low,High Risk
+STU1371,IT,3,78.29,70,55,15,1,11.12,66.49,61.89,6.666666666666667,High,Low,Moderate,49.12183333333334,Low,Medium Risk
+STU1372,Computer Science,1,83.98,74,62,10,7,8.01,75.38,95.81,70.0,High,Moderate,Moderate,82.0445,High,Low Risk
+STU1373,IT,1,95.41,91,87,8,0,5.1,67.35,40.31,0.0,High,Low,Moderate,48.2415,Low,Medium Risk
+STU1374,Management,4,89.51,87,78,15,5,8.35,77.94,35.96,33.33333333333333,High,Low,Moderate,56.46066666666667,Moderate,Medium Risk
+STU1375,IT,4,100.0,81,81,13,12,11.83,95.66,91.48,92.3076923076923,High,High,Moderate,95.17769230769231,High,Low Risk
+STU1376,Electronics,3,68.79,100,69,10,5,20.97,95.88,61.23,50.0,Moderate,Low,High,60.3235,Moderate,Medium Risk
+STU1377,Computer Science,6,88.47,76,67,8,3,9.41,70.27,52.96,37.5,High,Low,Moderate,61.753,Moderate,Low Risk
+STU1378,Electronics,3,80.2,118,95,7,3,13.12,79.17,83.72,42.857142857142854,High,Low,Moderate,68.01,Moderate,Low Risk
+STU1379,Computer Science,5,100.0,85,85,8,2,11.92,67.33,54.1,25.0,High,Low,Moderate,62.275,Moderate,Low Risk
+STU1380,Management,6,68.3,103,70,7,4,17.94,78.9,97.87,57.14285714285714,Moderate,Moderate,High,71.7875,Moderate,Medium Risk
+STU1381,Computer Science,2,67.92,66,45,6,2,24.63,98.53,77.2,33.33333333333333,Moderate,Low,High,58.13466666666666,Moderate,Medium Risk
+STU1382,Computer Science,3,70.81,101,72,9,2,9.35,83.59,56.22,22.22222222222222,Moderate,Low,Moderate,50.156777777777776,Moderate,Medium Risk
+STU1383,Computer Science,4,52.51,116,61,6,6,9.55,61.72,100.0,100.0,Low,High,Moderate,81.004,High,High Risk
+STU1384,IT,6,71.69,85,61,10,0,17.22,75.34,54.1,0.0,Moderate,Low,High,42.201,Low,High Risk
+STU1385,IT,3,68.89,84,58,7,2,15.41,79.91,78.36,28.57142857142857,Moderate,Low,High,57.146,Moderate,Medium Risk
+STU1386,Management,1,79.8,69,55,10,3,21.23,91.12,70.39,30.0,High,Low,High,60.0175,Moderate,Low Risk
+STU1387,Computer Science,2,82.1,118,97,15,10,14.92,77.56,88.43,66.66666666666666,High,Moderate,Moderate,78.28083333333333,High,Low Risk
+STU1388,AI & Data Science,5,100.0,104,104,14,10,10.2,86.81,93.11,71.42857142857143,High,Moderate,Moderate,88.2775,High,Low Risk
+STU1389,Management,1,89.41,78,70,13,4,14.95,79.37,65.58,30.76923076923077,High,Low,Moderate,62.928230769230765,Moderate,Low Risk
+STU1390,Computer Science,1,71.08,70,50,5,2,17.54,79.88,51.44,40.0,Moderate,Low,High,55.292,Moderate,Medium Risk
+STU1391,Computer Science,2,67.22,72,48,10,5,16.1,84.29,73.28,50.0,Moderate,Low,High,62.708000000000006,Moderate,Medium Risk
+STU1392,IT,5,83.9,112,94,13,10,14.54,79.81,52.8,76.92307692307693,High,Moderate,Moderate,73.68307692307692,Moderate,Low Risk
+STU1393,Management,4,62.16,67,42,15,13,17.33,79.85,100.0,86.66666666666667,Low,High,High,80.19733333333333,High,Medium Risk
+STU1394,Computer Science,6,99.98,99,99,8,4,17.85,88.63,67.46,50.0,High,Low,High,74.357,Moderate,Low Risk
+STU1395,Computer Science,5,92.15,63,58,15,2,18.91,87.04,58.42,13.333333333333334,High,Low,High,56.131666666666675,Moderate,Medium Risk
+STU1396,Management,3,72.37,106,77,6,5,15.24,76.62,68.32,83.33333333333334,Moderate,High,High,75.19466666666668,High,Low Risk
+STU1397,AI & Data Science,1,57.44,90,52,8,5,11.16,65.58,40.75,62.5,Low,Moderate,Moderate,55.0385,Moderate,High Risk
+STU1398,Management,3,94.25,87,82,5,5,12.73,92.33,47.51,100.0,High,High,Moderate,84.5775,High,Low Risk
+STU1399,Management,4,76.63,70,54,7,7,18.03,90.68,86.61,100.0,High,High,High,87.3045,High,Low Risk
+STU1400,AI & Data Science,3,92.85,102,95,14,1,7.92,71.73,53.18,7.142857142857142,High,Low,Moderate,52.935,Moderate,Medium Risk
+STU1401,Management,5,58.87,60,35,13,0,13.84,77.44,46.16,0.0,Low,Low,Moderate,35.088,Low,High Risk
+STU1402,Computer Science,3,70.81,108,76,14,3,10.03,71.03,74.66,21.428571428571427,Moderate,Low,Moderate,54.489,Moderate,Medium Risk
+STU1403,Management,4,78.06,106,83,9,6,12.14,88.83,86.34,66.66666666666666,High,Moderate,Moderate,76.14233333333334,High,Low Risk
+STU1404,AI & Data Science,4,78.56,111,87,15,14,18.39,89.02,77.94,93.33333333333333,High,High,High,83.57566666666666,High,Low Risk
+STU1405,Electronics,4,72.6,97,70,10,10,12.96,77.79,82.93,100.0,Moderate,High,Moderate,84.7725,High,Low Risk
+STU1406,Management,5,85.47,83,71,7,1,12.23,80.79,51.38,14.285714285714285,High,Low,Moderate,52.033,Moderate,Medium Risk
+STU1407,IT,4,65.19,113,74,9,2,5.2,49.7,39.41,22.22222222222222,Moderate,Low,Moderate,43.70627777777778,Low,High Risk
+STU1408,Computer Science,1,76.29,119,91,15,2,15.73,74.98,92.02,13.333333333333334,High,Low,High,58.18766666666667,Moderate,Medium Risk
+STU1409,Computer Science,4,79.44,116,92,12,4,15.23,70.69,59.19,33.33333333333333,High,Low,High,58.24016666666667,Moderate,Medium Risk
+STU1410,IT,3,84.17,106,89,10,4,22.82,91.82,60.49,40.0,High,Low,High,62.7905,Moderate,Low Risk
+STU1411,IT,6,86.54,90,78,8,2,10.46,93.72,88.91,25.0,High,Low,Moderate,65.5935,Moderate,Low Risk
+STU1412,Management,3,64.5,100,64,6,0,13.1,93.69,75.01,0.0,Low,Low,Moderate,44.5525,Low,High Risk
+STU1413,IT,6,59.59,105,63,13,3,13.25,79.68,73.21,23.076923076923077,Low,Low,Moderate,50.215423076923074,Moderate,High Risk
+STU1414,Electronics,3,93.33,109,102,5,4,19.89,98.2,100.0,80.0,High,Moderate,High,90.332,High,Low Risk
+STU1415,AI & Data Science,5,81.99,85,70,5,4,11.52,61.33,53.42,80.0,High,Moderate,Moderate,74.151,Moderate,Low Risk
+STU1416,IT,3,69.02,108,75,8,2,13.4,73.79,81.7,25.0,Moderate,Low,Moderate,56.783,Moderate,Medium Risk
+STU1417,IT,5,96.61,109,105,11,10,15.04,78.82,66.03,90.9090909090909,High,High,High,86.96968181818181,High,Low Risk
+STU1418,Electronics,5,79.39,64,51,5,1,12.93,73.78,69.83,20.0,High,Low,Moderate,56.213499999999996,Moderate,Medium Risk
+STU1419,Computer Science,4,92.15,79,73,13,9,9.77,79.52,92.51,69.23076923076923,High,Moderate,Moderate,84.21826923076924,High,Low Risk
+STU1420,Computer Science,1,78.81,111,87,8,8,12.97,75.39,74.14,100.0,High,High,Moderate,85.059,High,Low Risk
+STU1421,Management,6,100.0,100,100,7,3,17.37,73.97,74.69,42.857142857142854,High,Low,High,73.6725,Moderate,Low Risk
+STU1422,Electronics,4,99.06,70,69,5,2,6.87,84.11,84.31,40.0,High,Low,Moderate,74.70150000000001,Moderate,Low Risk
+STU1423,AI & Data Science,4,75.01,115,86,14,6,12.66,67.38,58.43,42.857142857142854,High,Low,Moderate,59.61150000000001,Moderate,Medium Risk
+STU1424,AI & Data Science,5,89.66,113,101,8,7,8.5,75.52,49.89,87.5,High,High,Moderate,78.96149999999999,High,Low Risk
+STU1425,Electronics,5,85.74,92,79,13,10,17.98,100.0,46.19,76.92307692307693,High,Moderate,High,72.76657692307693,Moderate,Low Risk
+STU1426,AI & Data Science,6,94.42,109,103,14,13,4.38,60.06,29.61,92.85714285714286,High,High,Low,77.6705,High,Low Risk
+STU1427,Computer Science,3,66.42,97,64,10,1,9.21,54.41,100.0,10.0,Moderate,Low,Moderate,55.068,Moderate,Medium Risk
+STU1428,AI & Data Science,3,86.23,86,74,10,6,13.89,76.35,45.14,60.0,High,Moderate,Moderate,66.777,Moderate,Low Risk
+STU1429,AI & Data Science,4,90.7,93,84,5,3,19.83,97.6,61.02,60.0,High,Moderate,High,72.535,Moderate,Low Risk
+STU1430,Electronics,2,56.9,74,42,14,4,11.67,86.1,60.02,28.57142857142857,Low,Low,Moderate,47.765,Low,High Risk
+STU1431,Electronics,2,63.8,91,58,6,6,9.22,60.65,70.53,100.0,Low,High,Moderate,78.1525,High,Medium Risk
+STU1432,AI & Data Science,3,53.53,117,63,15,10,21.41,87.6,79.68,66.66666666666666,Low,Moderate,High,64.66533333333334,Moderate,High Risk
+STU1433,IT,2,74.77,80,60,10,4,4.76,65.34,80.49,40.0,Moderate,Low,Low,64.0305,Moderate,Low Risk
+STU1434,Electronics,3,86.61,105,91,6,2,1.01,63.55,54.5,33.33333333333333,High,Low,Low,59.93566666666666,Moderate,Medium Risk
+STU1435,Management,5,96.03,64,61,7,4,14.2,100.0,61.99,57.14285714285714,High,Moderate,Moderate,73.90950000000001,Moderate,Low Risk
+STU1436,Management,4,78.89,65,51,8,1,9.49,62.5,70.09,12.5,High,Low,Moderate,53.4535,Moderate,Medium Risk
+STU1437,Computer Science,1,97.54,97,95,15,3,6.89,76.95,60.52,20.0,High,Low,Moderate,61.14600000000001,Moderate,Low Risk
+STU1438,AI & Data Science,4,61.44,81,50,9,5,15.54,84.02,93.93,55.55555555555556,Low,Moderate,High,67.50294444444444,Moderate,Medium Risk
+STU1439,IT,3,57.56,77,44,13,0,13.22,82.8,73.84,0.0,Low,Low,Moderate,41.484,Low,High Risk
+STU1440,Computer Science,3,77.33,73,56,8,3,9.18,75.52,78.23,37.5,High,Low,Moderate,63.61450000000001,Moderate,Low Risk
+STU1441,AI & Data Science,4,82.61,69,57,15,5,5.6,74.07,76.93,33.33333333333333,High,Low,Moderate,63.94316666666667,Moderate,Low Risk
+STU1442,Electronics,6,77.61,105,81,13,8,16.36,81.24,86.12,61.53846153846154,High,Moderate,High,74.11246153846153,Moderate,Low Risk
+STU1443,Management,3,53.19,72,38,15,13,15.25,76.94,68.26,86.66666666666667,Low,High,High,68.67433333333334,Moderate,High Risk
+STU1444,IT,2,76.93,90,69,14,10,11.5,70.29,41.66,71.42857142857143,High,Moderate,Moderate,66.18700000000001,Moderate,Low Risk
+STU1445,Management,2,62.35,89,55,7,7,21.23,89.7,72.19,100.0,Low,High,High,77.9875,High,Medium Risk
+STU1446,Electronics,3,86.04,62,53,12,10,6.65,67.92,53.28,83.33333333333334,High,High,Moderate,76.90266666666668,High,Low Risk
+STU1447,AI & Data Science,3,82.4,89,73,5,4,4.37,70.52,55.48,80.0,High,Moderate,Low,74.83,Moderate,Low Risk
+STU1448,Electronics,6,66.72,65,43,15,1,8.54,70.76,75.55,6.666666666666667,Moderate,Low,Moderate,47.908833333333334,Low,Medium Risk
+STU1449,Electronics,2,71.83,88,63,13,10,11.77,86.57,87.29,76.92307692307693,Moderate,Moderate,Moderate,77.47757692307692,High,Low Risk
+STU1450,Management,3,65.29,67,44,13,6,13.22,74.62,65.38,46.15384615384615,Moderate,Low,Moderate,58.61484615384616,Moderate,Medium Risk
+STU1451,IT,3,77.25,103,80,14,5,10.79,61.55,70.56,35.714285714285715,High,Low,Moderate,61.040000000000006,Moderate,Low Risk
+STU1452,Electronics,6,89.46,104,93,6,1,13.76,95.45,95.64,16.666666666666664,High,Low,Moderate,65.52733333333333,Moderate,Low Risk
+STU1453,Management,6,66.17,102,67,8,7,5.74,59.51,69.33,87.5,Moderate,High,Moderate,74.4255,Moderate,Medium Risk
+STU1454,IT,4,84.05,103,87,12,6,19.22,85.84,100.0,50.0,High,Low,High,76.12,High,Low Risk
+STU1455,AI & Data Science,6,71.64,92,66,11,10,11.59,71.07,75.18,90.9090909090909,Moderate,High,Moderate,79.26918181818182,High,Low Risk
+STU1456,AI & Data Science,1,68.49,76,52,5,4,17.59,88.22,33.31,80.0,Moderate,Moderate,High,63.7235,Moderate,Medium Risk
+STU1457,Computer Science,2,76.72,107,82,9,4,13.71,62.98,78.56,44.44444444444444,High,Low,Moderate,65.88355555555556,Moderate,Low Risk
+STU1458,Management,4,65.58,70,46,11,6,14.28,100.0,71.86,54.54545454545454,Moderate,Moderate,Moderate,63.28790909090908,Moderate,Medium Risk
+STU1459,IT,1,71.36,72,51,8,8,14.85,89.69,88.22,100.0,Moderate,High,Moderate,85.59899999999999,High,Low Risk
+STU1460,Electronics,3,63.63,109,69,5,2,14.24,79.03,77.12,40.0,Low,Low,Moderate,58.732,Moderate,Medium Risk
+STU1461,AI & Data Science,3,100.0,70,70,13,8,15.21,85.32,62.51,61.53846153846154,High,Moderate,High,77.16596153846153,High,Low Risk
+STU1462,IT,4,78.42,90,71,9,8,18.65,84.42,42.96,88.88888888888889,High,High,High,73.2191111111111,Moderate,Low Risk
+STU1463,Management,6,69.6,87,61,15,5,12.98,79.5,61.24,33.33333333333333,Moderate,Low,Moderate,54.81666666666666,Moderate,Medium Risk
+STU1464,Computer Science,3,80.57,103,83,6,1,15.55,84.92,49.69,16.666666666666664,High,Low,High,50.48383333333334,Moderate,Medium Risk
+STU1465,AI & Data Science,5,76.65,65,50,12,5,11.55,79.02,54.55,41.66666666666667,High,Low,Moderate,58.88083333333334,Moderate,Medium Risk
+STU1466,IT,4,75.35,100,75,15,2,19.2,86.67,75.59,13.333333333333334,High,Low,High,53.704166666666666,Moderate,Medium Risk
+STU1467,IT,1,85.37,75,64,6,0,8.62,76.51,95.06,0.0,High,Low,Moderate,57.913000000000004,Moderate,Medium Risk
+STU1468,IT,4,87.09,63,55,7,7,21.0,89.42,72.1,100.0,High,High,High,87.86100000000002,High,Low Risk
+STU1469,Management,2,71.63,94,67,14,6,11.8,70.73,43.47,42.857142857142854,Moderate,Low,Moderate,54.5195,Moderate,Medium Risk
+STU1470,Management,6,71.09,119,85,5,3,4.85,76.42,73.0,60.0,Moderate,Moderate,Low,67.686,Moderate,Low Risk
+STU1471,Management,6,74.7,107,80,15,0,12.64,83.98,86.54,0.0,Moderate,Low,Moderate,51.515,Moderate,Medium Risk
+STU1472,Electronics,4,50.38,115,58,6,6,8.59,40.87,54.02,100.0,Low,High,Moderate,68.657,Moderate,High Risk
+STU1473,IT,3,59.82,118,71,11,7,16.2,82.16,62.59,63.63636363636363,Low,Moderate,High,61.84822727272727,Moderate,High Risk
+STU1474,AI & Data Science,3,94.4,85,80,14,11,8.74,78.47,65.26,78.57142857142857,High,Moderate,Moderate,81.575,High,Low Risk
+STU1475,Management,5,97.74,116,113,6,5,9.77,77.11,50.87,83.33333333333334,High,High,Moderate,80.98016666666668,High,Low Risk
+STU1476,Management,5,75.01,71,53,10,5,2.55,62.91,76.67,50.0,High,Low,Low,66.67150000000001,Moderate,Low Risk
+STU1477,IT,6,84.92,70,59,7,1,9.74,84.45,62.82,14.285714285714285,High,Low,Moderate,54.673,Moderate,Medium Risk
+STU1478,Management,5,81.74,96,78,8,0,0.0,71.72,72.55,0.0,High,Low,Low,50.8335,Moderate,Medium Risk
+STU1479,Electronics,1,100.0,84,84,15,12,4.08,64.6,49.03,80.0,High,Moderate,Low,80.2575,High,Low Risk
+STU1480,Electronics,5,91.43,77,70,12,1,15.8,86.93,57.13,8.333333333333332,High,Low,High,53.771166666666666,Moderate,Medium Risk
+STU1481,Management,1,76.46,78,60,7,3,15.93,74.82,78.0,42.857142857142854,High,Low,High,65.084,Moderate,Low Risk
+STU1482,IT,5,66.53,82,55,14,1,14.13,64.54,58.29,7.142857142857142,Moderate,Low,Moderate,43.6845,Low,High Risk
+STU1483,IT,6,58.72,114,67,10,0,7.17,64.8,96.09,0.0,Low,Low,Moderate,47.5105,Low,High Risk
+STU1484,IT,6,80.44,97,78,5,2,11.76,83.06,57.81,40.0,High,Low,Moderate,60.6285,Moderate,Low Risk
+STU1485,Computer Science,1,68.92,113,78,11,10,11.98,82.52,69.04,90.9090909090909,Moderate,High,Moderate,76.64618181818182,High,Medium Risk
+STU1486,Management,4,60.93,77,47,12,11,6.21,71.6,81.79,91.66666666666666,Low,High,Moderate,76.90283333333333,High,Medium Risk
+STU1487,IT,6,70.24,85,60,15,7,19.52,86.52,39.47,46.666666666666664,Moderate,Low,High,54.29683333333333,Moderate,Medium Risk
+STU1488,Electronics,4,65.02,65,42,12,5,16.39,79.05,33.31,41.66666666666667,Moderate,Low,High,48.91883333333333,Low,Medium Risk
+STU1489,AI & Data Science,3,98.25,63,62,7,3,10.9,72.01,37.54,42.857142857142854,High,Low,Moderate,63.685,Moderate,Low Risk
+STU1490,AI & Data Science,1,88.58,103,91,14,13,12.13,85.69,87.73,92.85714285714286,High,High,Moderate,89.8645,High,Low Risk
+STU1491,IT,6,77.9,110,86,5,5,13.04,83.14,55.07,100.0,High,High,Moderate,79.9275,High,Low Risk
+STU1492,AI & Data Science,2,95.76,88,84,13,2,1.79,79.12,100.0,15.384615384615385,High,Low,Low,68.68861538461539,Moderate,Low Risk
+STU1493,AI & Data Science,3,78.93,118,93,10,7,10.76,83.74,54.84,70.0,High,Moderate,Moderate,69.78200000000001,Moderate,Low Risk
+STU1494,Computer Science,4,67.66,93,63,15,9,8.59,76.09,68.32,60.0,Moderate,Moderate,Moderate,65.144,Moderate,Medium Risk
+STU1495,Electronics,6,96.28,76,73,13,13,6.99,81.4,92.76,100.0,High,High,Moderate,96.702,High,Low Risk
+STU1496,Electronics,1,84.47,102,86,11,1,10.59,89.39,100.0,9.090909090909092,High,Low,Moderate,61.969818181818184,Moderate,Low Risk
+STU1497,Computer Science,5,65.55,102,67,5,4,20.99,88.36,100.0,80.0,Moderate,Moderate,High,79.22,High,Medium Risk
+STU1498,Computer Science,2,75.72,112,85,5,0,15.2,75.53,86.75,0.0,High,Low,High,51.9755,Moderate,Medium Risk
+STU1499,AI & Data Science,4,67.49,75,51,10,5,9.14,71.55,83.43,50.0,Moderate,Low,Moderate,65.3535,Moderate,Medium Risk
+STU1500,Management,3,61.41,61,37,9,1,14.86,71.31,75.67,11.11111111111111,Low,Low,Moderate,47.37038888888889,Low,Medium Risk

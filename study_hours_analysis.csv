@@ -1,0 +1,4 @@
+study_category,student_count,average_marks,average_attendance,average_engagement,high_risk_students
+Low,37,67.09,79.32,64.27,4
+Moderate,323,75.68,78.32,65.53,27
+High,140,83.63,76.52,65.41,15

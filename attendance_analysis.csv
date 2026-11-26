@@ -1,0 +1,5 @@
+attendance_group,student_count,average_marks,average_engagement,high_risk_students
+Below 60%,27,71.4,56.77,27
+60–74%,169,75.32,62.6,16
+75–89%,233,78.15,66.67,3
+90%+,71,81.26,71.25,0

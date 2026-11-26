@@ -1,0 +1,5 @@
+performance_category,student_count,average_marks,average_attendance,average_engagement,high_risk_students
+Needs Improvement,4,46.53,58.37,60.73,3
+Average,98,63.54,74.71,62.4,18
+Good,290,77.2,77.42,64.97,21
+Excellent,108,91.05,82.76,69.49,4

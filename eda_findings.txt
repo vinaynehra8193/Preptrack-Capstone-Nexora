@@ -1,0 +1,59 @@
+
+PREPTRACK CAPSTONE - EDA FINDINGS
+Team Nexora
+========================================
+
+Dataset Overview
+---------------
+Total students: 500
+Departments: 5
+Semesters covered: 6
+
+Academic Performance
+------------------
+Overall average marks: 77.28
+Highest average marks: 100.00
+Lowest average marks: 40.87
+
+Attendance
+---------
+Average attendance: 77.90%
+Minimum attendance: 39.10%
+Maximum attendance: 100.00%
+
+Study Habits
+-------------
+Average weekly study hours: 12.18
+
+Assignment Completion
+-------------------
+Average completion rate: 50.20%
+
+Activity
+-------
+Average activity score: 66.73
+
+Department Analysis
+-----------------
+Top-performing department by average marks: Management
+Department average: 77.94
+
+Semester Analysis
+---------------
+Highest average-performing semester: 4
+Semester average marks: 78.16
+
+Correlation with Average Marks
+-----------------------------
+study_hours_weekly                  0.544098
+attendance_percentage               0.267164
+activity_score                      0.216926
+classes_attended                    0.190144
+assignment_total                    0.018121
+assignments_completed               0.007674
+semester                           -0.009852
+assignment_completion_percentage   -0.012787
+
+Note:
+This dataset is synthetically generated for academic project purposes.
+The findings represent patterns within simulated data and not real student outcomes.
